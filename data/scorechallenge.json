@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "scorechallenge_id": "1",
+        "title": "1",
+        "start_at": "2020/2/27 0:00",
+        "end_at": "2020/3/2 12:00",
+        "reward_start_at": "2020/3/2 15:00",
+        "reward_end_at": "2020/3/9 12:00",
+        "rule": "1"
+    },
+    {
+        "id": "2",
+        "scorechallenge_id": "2",
+        "title": "2",
+        "start_at": "2020/3/2 12:00",
+        "end_at": "2020/3/9 12:00",
+        "reward_start_at": "2020/3/9 15:00",
+        "reward_end_at": "2020/3/16 12:00",
+        "rule": "1"
+    },
+    {
+        "id": "3",
+        "scorechallenge_id": "3",
+        "title": "3",
+        "start_at": "2020/3/9 12:00",
+        "end_at": "2020/3/16 12:00",
+        "reward_start_at": "2020/3/16 15:00",
+        "reward_end_at": "2020/3/23 12:00",
+        "rule": "1"
+    },
+    {
+        "id": "4",
+        "scorechallenge_id": "4",
+        "title": "4",
+        "start_at": "2020/3/16 12:00",
+        "end_at": "2020/3/23 12:00",
+        "reward_start_at": "2020/3/23 15:00",
+        "reward_end_at": "2020/3/30 12:00",
+        "rule": "1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "limit_id": "100001",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_100001/charge.html",
+        "item_type": "21",
+        "item_id": "3",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_3"
+    },
+    {
+        "limit_id": "319111",
+        "times": "250",
+        "limit_info_url": "gacha/gacha_319111/charge.html",
+        "item_type": "20",
+        "item_id": "1191111",
+        "num": "1",
+        "name_text": "TEXT_GACHA_TABTEXT_1"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "event_id": "20031",
+        "name": "AREA_TITLE_20031",
+        "type": "2",
+        "exchange_id": "20031",
+        "gacha_ticket_id": "0",
+        "boss_ticket_id": "200311",
+        "start_at": "2020/2/27 12:00",
+        "end_at": "2020/3/16 15:00",
+        "reward_start_at": "2020/2/27 12:00",
+        "reward_end_at": "2020/3/30 22:00",
+        "info_url": "event/story_20031/index.html",
+        "img_event": "btn_quest_20031",
+        "img_quest": "btn_event_quest_20031",
+        "img_boss": "btn_event_boss_battle_20031",
+        "img_story": "btn_event_story_s_20031",
+        "img_logo": "event_quest_logo_20031",
+        "mission_introduction_text": "EVENT_1_MISSION_INTRODUCTION"
+    }
+]

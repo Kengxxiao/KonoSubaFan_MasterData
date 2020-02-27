@@ -1,0 +1,222 @@
+[
+    {
+        "id": "PRESENT_MSG",
+        "text_japanese": "運営からのプレゼントです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_GACHA",
+        "text_japanese": "ガチャのおまけで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT",
+        "text_japanese": "イベントで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_SHOP",
+        "text_japanese": "ショップで購入したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_LUCKYBOX",
+        "text_japanese": "女神の恩恵で獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_LVUPBONUS",
+        "text_japanese": "成長の祝福で獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_LOGINBONUS",
+        "text_japanese": "ログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_1",
+        "text_japanese": "1日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_2",
+        "text_japanese": "2日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_3",
+        "text_japanese": "3日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_4",
+        "text_japanese": "4日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_5",
+        "text_japanese": "5日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_6",
+        "text_japanese": "6日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_7",
+        "text_japanese": "7日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_1",
+        "text_japanese": "1日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_2",
+        "text_japanese": "2日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_3",
+        "text_japanese": "3日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_4",
+        "text_japanese": "4日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_5",
+        "text_japanese": "5日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_6",
+        "text_japanese": "6日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_7",
+        "text_japanese": "7日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_1",
+        "text_japanese": "1日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_2",
+        "text_japanese": "2日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_3",
+        "text_japanese": "3日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_4",
+        "text_japanese": "4日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_5",
+        "text_japanese": "5日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_6",
+        "text_japanese": "6日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_7",
+        "text_japanese": "7日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_8",
+        "text_japanese": "8日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_9",
+        "text_japanese": "9日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_10",
+        "text_japanese": "10日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_11",
+        "text_japanese": "11日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_12",
+        "text_japanese": "12日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_13",
+        "text_japanese": "13日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_14",
+        "text_japanese": "14日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_MAX",
+        "text_japanese": "所持枠オーバー",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_GACHA_AUTO_CHARGE",
+        "text_japanese": "未受け取りのガチャチャージで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_ARENA_RANK_N",
+        "text_japanese": "バトルアリーナのランキング<0>位の報酬です",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_ARENA_RANK",
+        "text_japanese": "バトルアリーナのランキング報酬です",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_STARTDASH_LOGINBONUS_N",
+        "text_japanese": "<0>日目のスタートダッシュログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_EVENT_LOGINBONUS_N",
+        "text_japanese": "<0>日目のイベントログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_COMEBACK_LOGINBONUS_N",
+        "text_japanese": "<0>日目のカムバックログインボーナスで獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_FIRSTBONUS",
+        "text_japanese": "事前登録報酬で獲得したアイテムです",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_MSG_2",
+        "text_japanese": "運営からお送りさせていただきます",
+        "text_english": "0"
+    }
+]

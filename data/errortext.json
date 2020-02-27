@@ -1,0 +1,566 @@
+[
+    {
+        "id": "-100",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_FATAL"
+    },
+    {
+        "id": "-101",
+        "text_japanese": "該当するプレイヤーがいません。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_NOTUSER"
+    },
+    {
+        "id": "-102",
+        "text_japanese": "現在メンテナンス中です。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_MENTE"
+    },
+    {
+        "id": "-103",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_INENTRY"
+    },
+    {
+        "id": "-104",
+        "text_japanese": "引き継ぎ設定が見つかりません。\\n正しい引き継ぎID・パスワードを\\n入力してください。",
+        "text_english": "0",
+        "comment": "ERROR_ID"
+    },
+    {
+        "id": "-105",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_UNTRYMISSION"
+    },
+    {
+        "id": "-106",
+        "text_japanese": "新しいアプリが公開されています。\\nストアへ移ります。",
+        "text_english": "0",
+        "comment": "ERROR_APIVERSION"
+    },
+    {
+        "id": "-107",
+        "text_japanese": "新しいデータがあります。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_MASTERVERSION"
+    },
+    {
+        "id": "-108",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_OTHER_PROCESSING"
+    },
+    {
+        "id": "-109",
+        "text_japanese": "エリスが足りません。",
+        "text_english": "0",
+        "comment": "ERROR_SHORT_MONEY"
+    },
+    {
+        "id": "-110",
+        "text_japanese": "クオーツが足りません。",
+        "text_english": "0",
+        "comment": "ERROR_SHORT_REALMONEY"
+    },
+    {
+        "id": "-111",
+        "text_japanese": "アイテムの数が足りません。",
+        "text_english": "0",
+        "comment": "ERROR_SHORT_ITEM"
+    },
+    {
+        "id": "-112",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_SHORT_STRPOINT"
+    },
+    {
+        "id": "-113",
+        "text_japanese": "スタミナが足りません。",
+        "text_english": "0",
+        "comment": "ERROR_SHORT_STAMINA"
+    },
+    {
+        "id": "-114",
+        "text_japanese": "該当するデッキがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_DECK"
+    },
+    {
+        "id": "-115",
+        "text_japanese": "該当するメンバーがいません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_CARD"
+    },
+    {
+        "id": "-116",
+        "text_japanese": "該当するプレイヤーがいません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_USER"
+    },
+    {
+        "id": "-117",
+        "text_japanese": "該当するガチャがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_GACHA"
+    },
+    {
+        "id": "-118",
+        "text_japanese": "該当するステージがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_STAGE"
+    },
+    {
+        "id": "-119",
+        "text_japanese": "該当するバイトがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_EXPEDITION"
+    },
+    {
+        "id": "-120",
+        "text_japanese": "該当するログインボーナスがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_LOGINBONUS"
+    },
+    {
+        "id": "-121",
+        "text_japanese": "該当する鍛冶の設定がありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_BLACKSMITH"
+    },
+    {
+        "id": "-122",
+        "text_japanese": "該当する限界突破の設定がありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_LIMITBREAK"
+    },
+    {
+        "id": "-123",
+        "text_japanese": "すでにフレンド申請がされています",
+        "text_english": "0",
+        "comment": "ERROR_SET_USER"
+    },
+    {
+        "id": "-124",
+        "text_japanese": "すでにフレンドになっています。",
+        "text_english": "0",
+        "comment": "ERROR_SET_FRIEND"
+    },
+    {
+        "id": "-125",
+        "text_japanese": "フレンドになることができません。",
+        "text_english": "0",
+        "comment": "ERROR_SET_BLACKLIST"
+    },
+    {
+        "id": "-126",
+        "text_japanese": "フレンド申請がされていませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_SET_REQUEST"
+    },
+    {
+        "id": "-127",
+        "text_japanese": "開催期間が過ぎています。",
+        "text_english": "0",
+        "comment": "ERROR_NOT_OPEN"
+    },
+    {
+        "id": "-128",
+        "text_japanese": "アイテムを受け取ることはできません。",
+        "text_english": "0",
+        "comment": "ERROR_NOT_GETITEM"
+    },
+    {
+        "id": "-129",
+        "text_japanese": "アイテムを所持していません。",
+        "text_english": "0",
+        "comment": "ERROR_NOT_HAVEITEM"
+    },
+    {
+        "id": "-130",
+        "text_japanese": "そのアイテムはすでに受け取っています。",
+        "text_english": "0",
+        "comment": "ERROR_RECVED_GETITEM"
+    },
+    {
+        "id": "-131",
+        "text_japanese": "最大レベルに達しています。",
+        "text_english": "0",
+        "comment": "ERROR_MAX_LEVEL"
+    },
+    {
+        "id": "-132",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_NOTENTERROOM"
+    },
+    {
+        "id": "-133",
+        "text_japanese": "フレンドがいません。",
+        "text_english": "0",
+        "comment": "ERROR_NOTFRIEND"
+    },
+    {
+        "id": "-134",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_UNMATCHWORD"
+    },
+    {
+        "id": "-135",
+        "text_japanese": "バトルを開始できませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_NOTBATTLESTART"
+    },
+    {
+        "id": "-136",
+        "text_japanese": "バトルを正しく終了できませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_INVALIDBATTLE"
+    },
+    {
+        "id": "-137",
+        "text_japanese": "指定されたプレゼントを受け取れませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_PRESENT_UNMATCHUSERID"
+    },
+    {
+        "id": "-138",
+        "text_japanese": "プレゼントが正しくありませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_PRESENT_UNKNOWNID"
+    },
+    {
+        "id": "-139",
+        "text_japanese": "すでに1日1回限定ガチャを使用しています。",
+        "text_english": "0",
+        "comment": "ERROR_GACHA_DAILY_DONE"
+    },
+    {
+        "id": "-140",
+        "text_japanese": "女神の恩恵のアイテムを獲得できませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_LUCKYBOX_UNKNOWNID"
+    },
+    {
+        "id": "-141",
+        "text_japanese": "成長の祝福のアイテムを獲得できませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_LVUPBONUS_UNKNOWNID"
+    },
+    {
+        "id": "-142",
+        "text_japanese": "ガチャチケットがありません。",
+        "text_english": "0",
+        "comment": "ERROR_GACHA_NOT_TICKET"
+    },
+    {
+        "id": "-143",
+        "text_japanese": "ガチャチャージが不足しています。",
+        "text_english": "0",
+        "comment": "ERROR_GACHA_NOT_LIMITPT"
+    },
+    {
+        "id": "-144",
+        "text_japanese": "該当する交換方法がありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_EXCHANGE"
+    },
+    {
+        "id": "-145",
+        "text_japanese": "そのアイテムは現在販売していません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_SHOP"
+    },
+    {
+        "id": "-146",
+        "text_japanese": "FRONT1のメインメンバーは外せません。",
+        "text_english": "0",
+        "comment": "ERROR_PARTY_REMOVE"
+    },
+    {
+        "id": "-147",
+        "text_japanese": "そのメンバーは所持していません。",
+        "text_english": "0",
+        "comment": "ERROR_PARTY_NOT_HAVE"
+    },
+    {
+        "id": "-148",
+        "text_japanese": "その装備は編成できません。",
+        "text_english": "0",
+        "comment": "ERROR_PARTY_FATAL"
+    },
+    {
+        "id": "-149",
+        "text_japanese": "その装備は強化することができません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_ITEMPOWERUP"
+    },
+    {
+        "id": "-150",
+        "text_japanese": "その武器は所持していません。",
+        "text_english": "0",
+        "comment": "ERROR_NOHAVE_WEAPON"
+    },
+    {
+        "id": "-151",
+        "text_japanese": "その装飾品は所持していません。",
+        "text_english": "0",
+        "comment": "ERROR_NOHAVE_ITEM"
+    },
+    {
+        "id": "-152",
+        "text_japanese": "対象となる装備がありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_TARGET_TYPE"
+    },
+    {
+        "id": "-153",
+        "text_japanese": "アイテムを購入できる上限に達しています。",
+        "text_english": "0",
+        "comment": "ERROR_LIMITBUY"
+    },
+    {
+        "id": "-154",
+        "text_japanese": "アイテムを1日に購入できる上限に達しています。",
+        "text_english": "0",
+        "comment": "ERROR_LIMITBUY_DAILY"
+    },
+    {
+        "id": "-155",
+        "text_japanese": "アイテムを1週間に購入できる上限に達しています。",
+        "text_english": "0",
+        "comment": "ERROR_LIMITBUY_WEEKLY"
+    },
+    {
+        "id": "-156",
+        "text_japanese": "アイテムを1ヵ月に購入できる上限に達しています。",
+        "text_english": "0",
+        "comment": "ERROR_LIMITBUY_MONTHLY"
+    },
+    {
+        "id": "-157",
+        "text_japanese": "そのアイテムはすでに購入済みです。",
+        "text_english": "0",
+        "comment": "ERROR_LIMITBUY_BEGINNER"
+    },
+    {
+        "id": "-158",
+        "text_japanese": "課金機能は現在メンテナンス中です。",
+        "text_english": "0",
+        "comment": "ERROR_PURCHASE_MENTE"
+    },
+    {
+        "id": "-159",
+        "text_japanese": "スキップチケットが不足しています。",
+        "text_english": "0",
+        "comment": "ERROR_SKIPTICKET_NOT_TICKET"
+    },
+    {
+        "id": "-160",
+        "text_japanese": "スタミナが不足しています。",
+        "text_english": "0",
+        "comment": "ERROR_SKIPTICKET_NOT_STAMINA"
+    },
+    {
+        "id": "-161",
+        "text_japanese": "該当するフリークエストがありません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_SCORECHALLENGE"
+    },
+    {
+        "id": "-162",
+        "text_japanese": "そのクエストは解放されていません。",
+        "text_english": "0",
+        "comment": "ERROR_NOT_QUEST"
+    },
+    {
+        "id": "-163",
+        "text_japanese": "該当するキャラクターがいません。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWN_CHARACTER"
+    },
+    {
+        "id": "-164",
+        "text_japanese": "すでにバイトを開始しています。",
+        "text_english": "0",
+        "comment": "ERROR_SET_EXPEDITION_CHARACTER"
+    },
+    {
+        "id": "-165",
+        "text_japanese": "そのミッションは期間外です。",
+        "text_english": "0",
+        "comment": "ERROR_MISSION_NOT_OPEN"
+    },
+    {
+        "id": "-166",
+        "text_japanese": "バトル中に開催期間が\\n終了しましたので、\\n今回の結果はランキングに反映されません。",
+        "text_english": "0",
+        "comment": "ERROR_SCORECHALLENGE_CLOSED"
+    },
+    {
+        "id": "-167",
+        "text_japanese": "受け取れるプレゼントがありませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_PRESENT_NOT_RECEIVED"
+    },
+    {
+        "id": "-169",
+        "text_japanese": "ゲームデータの引き継ぎ元と引き継ぎ先が\\n同一 ID のため引き継ぎは\\n実行されませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_SAME_USER"
+    },
+    {
+        "id": "-170",
+        "text_japanese": "クラウンを3つ獲得しないと\\nスキップチケットを使用できません。",
+        "text_english": "0",
+        "comment": "ERROR_SKIPTICKET_NOT_ALLCLEAR"
+    },
+    {
+        "id": "-171",
+        "text_japanese": "使用できない言葉が含まれています。",
+        "text_english": "0",
+        "comment": "ERROR_NG_WORD"
+    },
+    {
+        "id": "-172",
+        "text_japanese": "ガチャは現在メンテナンス中です。",
+        "text_english": "0",
+        "comment": "ERROR_GACHA_MENTE"
+    },
+    {
+        "id": "-173",
+        "text_japanese": "ショップは現在メンテナンス中です。",
+        "text_english": "0",
+        "comment": "ERROR_SHOP_MENTE"
+    },
+    {
+        "id": "-174",
+        "text_japanese": "1日にプレイできる回数の上限に達しました。",
+        "text_english": "0",
+        "comment": "ERROR_QUEST_LIMIT_NUM"
+    },
+    {
+        "id": "-175",
+        "text_japanese": "アイテムを1つ以上指定してください。",
+        "text_english": "0",
+        "comment": "ERROR_USE_ITEM_NUM_ZERO"
+    },
+    {
+        "id": "-176",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_PLAY_SERVICE_UNAVAILABLE"
+    },
+    {
+        "id": "-177",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_PLAY_SERVICE_NEED_RETRY"
+    },
+    {
+        "id": "-200",
+        "text_japanese": "現在、処理に時間がかかっています。\\nしばらくしてからお遊びください。",
+        "text_english": "0",
+        "comment": "ERROR_TIMEOUT"
+    },
+    {
+        "id": "-301",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_PURCHASE_ERROR_FATAL"
+    },
+    {
+        "id": "-302",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_PURCHASE_ERROR_INVALID_MASTER"
+    },
+    {
+        "id": "-303",
+        "text_japanese": "そのアイテムはすでに購入済みです。",
+        "text_english": "0",
+        "comment": "ERROR_PURCHASE_ERROR_ALREADY_GRANTED"
+    },
+    {
+        "id": "-304",
+        "text_japanese": "購入時に問題が発生しました。\\nもう一度お試しください。",
+        "text_english": "0",
+        "comment": "ERROR_PURCHASE_ERROR_NEED_RETRY"
+    },
+    {
+        "id": "-400",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_REQUEST_PARAM_INVALID"
+    },
+    {
+        "id": "-401",
+        "text_japanese": "プレイしてからしばらく時間が経過しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_UNKNOWNUSERKEY"
+    },
+    {
+        "id": "-1000",
+        "text_japanese": "イベントの開催期間外です。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_OPEN"
+    },
+    {
+        "id": "-1001",
+        "text_japanese": "報酬の配布期間を過ぎました。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_REWARD_PERIOD"
+    },
+    {
+        "id": "-1002",
+        "text_japanese": "ボスチケットが足りません。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_BOSS_TICKET"
+    },
+    {
+        "id": "-1003",
+        "text_japanese": "ガチャチケットが足りません。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_GACHA_TICKET"
+    },
+    {
+        "id": "-1004",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_GACHA_PARAM"
+    },
+    {
+        "id": "-1005",
+        "text_japanese": "ガチャをリセットすることができませんでした。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_GACHA_RESET"
+    },
+    {
+        "id": "-1006",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_MASTER"
+    },
+    {
+        "id": "-1007",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_GACHA_BOX_NUM"
+    },
+    {
+        "id": "-1008",
+        "text_japanese": "そのメンバーは控えメンバーで\\nスキルLvをあげることができません。",
+        "text_english": "0",
+        "comment": "ERROR_EVENT_NOT_MEMBER_SKILLLVUP"
+    },
+    {
+        "id": "-6200",
+        "text_japanese": "エラーが発生しました。\\nタイトルへ戻ります。",
+        "text_english": "0",
+        "comment": "ERROR_CLIENT_UNKNOWN_ERROR"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "id": "1000101",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_battle_start",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141001",
+        "priority": "1",
+        "voice_id": "308141001"
+    },
+    {
+        "id": "1000102",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141002",
+        "priority": "3",
+        "voice_id": "308141002"
+    },
+    {
+        "id": "1000103",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141003",
+        "priority": "3",
+        "voice_id": "308141003"
+    },
+    {
+        "id": "1000104",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141004",
+        "priority": "3",
+        "voice_id": "308141004"
+    },
+    {
+        "id": "1000105",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_sp_standby",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141005",
+        "priority": "2",
+        "voice_id": "308141005"
+    },
+    {
+        "id": "1000106",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_sp_skill",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141006",
+        "priority": "2",
+        "voice_id": "308141006"
+    },
+    {
+        "id": "1000107",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "hp_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141007",
+        "priority": "4",
+        "voice_id": "308141007"
+    },
+    {
+        "id": "1000108",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141008",
+        "priority": "3",
+        "voice_id": "308141008"
+    },
+    {
+        "id": "1000109",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141009",
+        "priority": "3",
+        "voice_id": "308141009"
+    },
+    {
+        "id": "1000110",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141010",
+        "priority": "3",
+        "voice_id": "308141010"
+    },
+    {
+        "id": "1000111",
+        "character_id": "141",
+        "shape": "10001",
+        "type": "down",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308141011",
+        "priority": "1",
+        "voice_id": "308141011"
+    },
+    {
+        "id": "1010001",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_battle_start",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121001",
+        "priority": "1",
+        "voice_id": "308121001"
+    },
+    {
+        "id": "1010002",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121002",
+        "priority": "3",
+        "voice_id": "308121002"
+    },
+    {
+        "id": "1010003",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121003",
+        "priority": "3",
+        "voice_id": "308121003"
+    },
+    {
+        "id": "1010004",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121004",
+        "priority": "3",
+        "voice_id": "308121004"
+    },
+    {
+        "id": "1010005",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_sp_standby",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121005",
+        "priority": "2",
+        "voice_id": "308121005"
+    },
+    {
+        "id": "1010006",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_sp_skill",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121006",
+        "priority": "2",
+        "voice_id": "308121006"
+    },
+    {
+        "id": "1010007",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "hp_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121007",
+        "priority": "4",
+        "voice_id": "308121007"
+    },
+    {
+        "id": "1010008",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121008",
+        "priority": "3",
+        "voice_id": "308121008"
+    },
+    {
+        "id": "1010009",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121009",
+        "priority": "3",
+        "voice_id": "308121009"
+    },
+    {
+        "id": "1010010",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121010",
+        "priority": "3",
+        "voice_id": "308121010"
+    },
+    {
+        "id": "1010011",
+        "character_id": "121",
+        "shape": "10100",
+        "type": "down",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308121011",
+        "priority": "1",
+        "voice_id": "308121011"
+    },
+    {
+        "id": "1030001",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_battle_start",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130001",
+        "priority": "1",
+        "voice_id": "308130001"
+    },
+    {
+        "id": "1030002",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130002",
+        "priority": "3",
+        "voice_id": "308130002"
+    },
+    {
+        "id": "1030003",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130003",
+        "priority": "3",
+        "voice_id": "308130003"
+    },
+    {
+        "id": "1030004",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130004",
+        "priority": "3",
+        "voice_id": "308130004"
+    },
+    {
+        "id": "1030005",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_sp_standby",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130005",
+        "priority": "2",
+        "voice_id": "308130005"
+    },
+    {
+        "id": "1030006",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_sp_skill",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130006",
+        "priority": "2",
+        "voice_id": "308130006"
+    },
+    {
+        "id": "1030007",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "hp_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130007",
+        "priority": "4",
+        "voice_id": "308130007"
+    },
+    {
+        "id": "1030008",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130008",
+        "priority": "3",
+        "voice_id": "308130008"
+    },
+    {
+        "id": "1030009",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130009",
+        "priority": "3",
+        "voice_id": "308130009"
+    },
+    {
+        "id": "1030010",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "enemy_attack_under30",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130010",
+        "priority": "3",
+        "voice_id": "308130010"
+    },
+    {
+        "id": "1030011",
+        "character_id": "130",
+        "shape": "10300",
+        "type": "down",
+        "bubble": "1",
+        "text_id": "ASSET_ENEMY_VOICE_QUOTE_308130011",
+        "priority": "1",
+        "voice_id": "308130011"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": "5200301",
+        "sort_order": "1",
+        "title_text": "STORY_GACHA_TITLE_200301",
+        "summary_text": "STORY_GACHA_SUMMARY_200301",
+        "gacha_id": "320031",
+        "pack_id": "0",
+        "list_icon_type": "member",
+        "list_icon_id": "1014107",
+        "start_load_voice_id": "302101002",
+        "end_load_voice_id": "302103003",
+        "banner": "banner_gacha_320031.png"
+    }
+]

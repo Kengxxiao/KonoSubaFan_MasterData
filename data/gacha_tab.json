@@ -1,0 +1,50 @@
+[
+    {
+        "id": "11",
+        "tab": "LIMIT",
+        "start_at": "0",
+        "end_at": "2020/03/06 15:00",
+        "text": "TEXT_GACHA_TABTEXT_1",
+        "gacha_id": "319111"
+    },
+    {
+        "id": "12",
+        "tab": "LIMIT_2ND",
+        "start_at": "0",
+        "end_at": "2020/03/06 15:00",
+        "text": "TEXT_GACHA_TABTEXT_2",
+        "gacha_id": "200012"
+    },
+    {
+        "id": "13",
+        "tab": "PREMIUM",
+        "start_at": "0",
+        "end_at": "2020/03/06 15:00",
+        "text": "TEXT_GACHA_TABTEXT_3",
+        "gacha_id": "100001"
+    },
+    {
+        "id": "21",
+        "tab": "LIMIT",
+        "start_at": "2020/03/06 15:00",
+        "end_at": "2020/03/09 15:00",
+        "text": "TEXT_GACHA_TABTEXT_4",
+        "gacha_id": "410001"
+    },
+    {
+        "id": "22",
+        "tab": "LIMIT_2ND",
+        "start_at": "2020/03/06 15:00",
+        "end_at": "2020/03/09 15:00",
+        "text": "TEXT_GACHA_TABTEXT_1",
+        "gacha_id": "319111"
+    },
+    {
+        "id": "23",
+        "tab": "PREMIUM",
+        "start_at": "2020/03/06 15:00",
+        "end_at": "2020/03/09 15:00",
+        "text": "TEXT_GACHA_TABTEXT_2",
+        "gacha_id": "200012"
+    }
+]

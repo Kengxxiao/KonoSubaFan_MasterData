@@ -1,0 +1,18 @@
+[
+    {
+        "id": "6010620",
+        "type": "1",
+        "category": "1",
+        "sort_order": "1",
+        "title_text": "STORY_BIRTHDAY_TITLE_10620",
+        "summary_text": "STORY_BIRTHDAY_SUMMARY_10620",
+        "start_at": "2020/2/29 0:00",
+        "end_at": "2020/3/1 0:00",
+        "pack_id": "70001",
+        "list_icon_type": "member",
+        "list_icon_id": "1061100",
+        "start_load_voice_id": "302106002",
+        "end_load_voice_id": "302106003",
+        "banner": "banner_birthday_001.png"
+    }
+]

@@ -1,0 +1,5302 @@
+[
+    {
+        "id": "COMMON_BACK",
+        "text_japanese": "戻る",
+        "text_english": "Back"
+    },
+    {
+        "id": "COMMON_CANCEL",
+        "text_japanese": "キャンセル",
+        "text_english": "Cancel"
+    },
+    {
+        "id": "COMMON_OK",
+        "text_japanese": "OK",
+        "text_english": "OK"
+    },
+    {
+        "id": "COMMON_CLOSE",
+        "text_japanese": "閉じる",
+        "text_english": "Close"
+    },
+    {
+        "id": "COMMON_NEXT",
+        "text_japanese": "次へ",
+        "text_english": "Next"
+    },
+    {
+        "id": "COMMON_ON",
+        "text_japanese": "ON",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_OFF",
+        "text_japanese": "OFF",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_MAINQUEST",
+        "text_japanese": "メインクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_FREEQUEST",
+        "text_japanese": "フリークエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_PARTTIME",
+        "text_japanese": "バイト",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SCORECHALLENGE",
+        "text_japanese": "スコアチャレンジ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_EXCHANGE",
+        "text_japanese": "交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_EVENT",
+        "text_japanese": "イベント",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_PROFILE",
+        "text_japanese": "プロフィール",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_WEAPON",
+        "text_japanese": "武器",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SWORD",
+        "text_japanese": "剣",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_DAGGER",
+        "text_japanese": "短剣",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STICK",
+        "text_japanese": "ステッキ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_WAND",
+        "text_japanese": "杖",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_LANCE",
+        "text_japanese": "槍",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_ACCESSORY",
+        "text_japanese": "装飾品",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_FLAME",
+        "text_japanese": "火",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_WATER",
+        "text_japanese": "水",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_EARTH",
+        "text_japanese": "地",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_ELECTRIC",
+        "text_japanese": "雷",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_WIND",
+        "text_japanese": "風",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SHINE",
+        "text_japanese": "光",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_DARK",
+        "text_japanese": "闇",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_NONE",
+        "text_japanese": "無",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT",
+        "text_japanese": "ソート",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_RARITY",
+        "text_japanese": "レアリティ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_LV",
+        "text_japanese": "Lv.",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_EQUIPMENT_RANK",
+        "text_japanese": "装備ランク",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_HP",
+        "text_japanese": "HP",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_ATTACK",
+        "text_japanese": "物理攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_MAGICATTACK",
+        "text_japanese": "魔法攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_DEFENSE",
+        "text_japanese": "物理防御",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_MAGICDEFENSE",
+        "text_japanese": "魔法防御",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_INTIMACY",
+        "text_japanese": "絆ランク",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_NEW",
+        "text_japanese": "入手順",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_DESC",
+        "text_japanese": "降順",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_ASC",
+        "text_japanese": "昇順",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_POWER",
+        "text_japanese": "戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SORT_SUB_POWER",
+        "text_japanese": "SUB 戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_HAVECOUNT",
+        "text_japanese": "所持数：",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_HP",
+        "text_japanese": "HP",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_ATTACK",
+        "text_japanese": "物理攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_MAGICATTACK",
+        "text_japanese": "魔法攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_DEFENSE",
+        "text_japanese": "物理防御",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_MAGICDEFENSE",
+        "text_japanese": "魔法防御",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_AGILITY",
+        "text_japanese": "敏捷性",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_DEXTERITY",
+        "text_japanese": "器用さ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_LUCK",
+        "text_japanese": "幸運",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STATUS_SP_LEVEL",
+        "text_japanese": "必殺スキル Lv.",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_LEVEL",
+        "text_japanese": "スキル Lv.",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_ACTIVE",
+        "text_japanese": "スキル",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_ATTRIBUTE",
+        "text_japanese": "属性：",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_PASSIVE",
+        "text_japanese": "特性",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_SPECIAL",
+        "text_japanese": "必殺スキル",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SKILL_EQUIPMENT",
+        "text_japanese": "装備品スキル",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_MAIN",
+        "text_japanese": "MAIN",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_SUB",
+        "text_japanese": "SUB",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_EQUIPMENT",
+        "text_japanese": "装備品",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_RESISTANCE",
+        "text_japanese": "耐性",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_HELP",
+        "text_japanese": "ヘルプ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_ERRORCODE",
+        "text_japanese": "エラーコード: <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_ERROR",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STORY_MAIN",
+        "text_japanese": "メインストーリー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STORY_CHARACTER",
+        "text_japanese": "キャラクターエピソード",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STORY_EVENT",
+        "text_japanese": "イベントストーリー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STORY_REMINISCENCE",
+        "text_japanese": "このすばストーリー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_HOMEPAGE",
+        "text_japanese": "公式サイト",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_PRIVACYPOLICY",
+        "text_japanese": "プライバシーポリシー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_AGREEMENT_GUIDELINE",
+        "text_japanese": "利用規約・ガイドライン",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_RIGHT",
+        "text_japanese": "権利表記",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_CONTACTUS",
+        "text_japanese": "お問い合わせ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_RECVITEM_TITLE",
+        "text_japanese": "アイテム受け取り",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_RECVITEM_TEXT",
+        "text_japanese": "以下のアイテムを受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_EVENT_GACHA",
+        "text_japanese": "イベントガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_REMAIN_NUM",
+        "text_japanese": "あと<0>回",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_ITEM_NUM",
+        "text_japanese": "×<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_DAYS",
+        "text_japanese": "<0>日",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_TO_BUY",
+        "text_japanese": "売却へ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_REMAINING",
+        "text_japanese": "あと",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_CAMPAIGN",
+        "text_japanese": "キャンペーン",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_NOTICE",
+        "text_japanese": "お知らせ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_GAME_CENTER",
+        "text_japanese": "Game Center",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_GOOGLE_PLAY",
+        "text_japanese": "Google Play",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_DIFFICULTY_NORMAL",
+        "text_japanese": "NORMAL",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_DIFFICULTY_HARD",
+        "text_japanese": "HARD",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_DIFFICULTY_VERYHARD",
+        "text_japanese": "VERY HARD",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NO_CONSUMPTION",
+        "text_japanese": "消費なし",
+        "text_english": "0"
+    },
+    {
+        "id": "HOME_CHARACTER_DIALOG",
+        "text_japanese": "ホームキャラクターの設定",
+        "text_english": "0"
+    },
+    {
+        "id": "HOME_CHARACTER_DIALOG_INFO",
+        "text_japanese": "※ホームキャラクターの表示形式は、ホームより切替可能です。\\n※キャラクターの衣装と背景は、キャラ交流より変更可能です。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_65_0",
+        "text_japanese": "なし",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_73_0",
+        "text_japanese": "物理攻撃：0",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_77_0",
+        "text_japanese": "魔法攻撃：0",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_129_0",
+        "text_japanese": "物理攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_131_0",
+        "text_japanese": "物理防御",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_134_0",
+        "text_japanese": "魔法攻撃",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_137_0",
+        "text_japanese": "魔法防御",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHINFOPANEL_LEVEL",
+        "text_japanese": "強化",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114145901254740404",
+        "text_japanese": "必要エリス",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_USEMONEY",
+        "text_japanese": "必要",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_HAVEMONEY",
+        "text_japanese": "所持",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114183526854828452",
+        "text_japanese": "所持数：",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114974941602708686",
+        "text_japanese": "製作する",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114494492942725242",
+        "text_japanese": "詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHITEMDETAILWINDOW_24_0",
+        "text_japanese": "装備品詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHITEMDETAILWINDOW_25_0",
+        "text_japanese": "製作完了",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHITEMDETAILWINDOW_26_0",
+        "text_japanese": "強化完了",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHITEMDETAILWINDOW_137_0",
+        "text_japanese": "スキルはありません",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHRECOMMENDQUESTWINDOW_143_0",
+        "text_japanese": "{queststagelist［i］.mainmission}",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHRECOMMENDQUESTWINDOW_144_0",
+        "text_japanese": "{queststagelist［i］.submission1}",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHRECOMMENDQUESTWINDOW_145_0",
+        "text_japanese": "{queststagelist［i］.submission2}",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_TITLE",
+        "text_japanese": "売却確認",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_INFO",
+        "text_japanese": "選択した装備品を売却します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_HAVEMONEY",
+        "text_japanese": "所持エリス",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_79_0",
+        "text_japanese": "★<0>以上の装備品が含まれています。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_108_0",
+        "text_japanese": "売却完了",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALECONFIRMWINDOW_108_1",
+        "text_japanese": "売却完了しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_272_0",
+        "text_japanese": "フィルタータイプが正しくない :",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_287_0",
+        "text_japanese": "ソートタイプが正しくない :",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_370_0",
+        "text_japanese": "<0>一覧",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_521_0",
+        "text_japanese": "製作不可",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_521_1",
+        "text_japanese": "装備品の所持数が制限に達しています。\\n装備売却から装備品の売却を\\n行うことができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_522_0",
+        "text_japanese": "製作確認",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_523_0",
+        "text_japanese": "「<0>」\\nを製作します。\\nよろしいですか?",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_533_1",
+        "text_japanese": "所持エリスが不足しています",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_543_0",
+        "text_japanese": "サーバエラーが発生しました",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSELECTOR_547_1",
+        "text_japanese": "すてきな製作動画",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHUPGRADECONFIRMWINDOW_91_0",
+        "text_japanese": "「<0>」\\nを強化します。\\nよろしいですか?",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHUPGRADECONFIRMWINDOW_128_0",
+        "text_japanese": "装備強化不可",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHUPGRADECONFIRMWINDOW_145_0",
+        "text_japanese": "装備強化確認",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHUPGRADECONFIRMWINDOW_145_1",
+        "text_japanese": "すてきな装備強化動画",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114555969329736020",
+        "text_japanese": "強化する",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114600877883687702",
+        "text_japanese": "レア降順",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114600877883687703",
+        "text_japanese": "レア昇順",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_TEXT_114533908171082512",
+        "text_japanese": "必要素材",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_TITLE",
+        "text_japanese": "装備売却",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_HAVECOUNT",
+        "text_japanese": "所持数：",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_SALETOTAL",
+        "text_japanese": "売却エリス合計：",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_SELECTCOUNT",
+        "text_japanese": "選択数：",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_EMPTY",
+        "text_japanese": "装備品を所持していません。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_FILTER_ALL",
+        "text_japanese": "すべて",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_FILTER_WEAPON",
+        "text_japanese": "武器",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_FILTER_ITEM",
+        "text_japanese": "装飾品",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_CHECK_RARE2",
+        "text_japanese": "★2以下選択",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_CHECK_RARE3",
+        "text_japanese": "★3以下選択",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_RESET",
+        "text_japanese": "リセット",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSALEWINDOW_SALE",
+        "text_japanese": "売却する",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_CREATE_EMPTY",
+        "text_japanese": "制作できる装備品はありません。",
+        "text_english": "0"
+    },
+    {
+        "id": "BLACKSMITHSCREEN_POWERUP_EMPTY",
+        "text_japanese": "強化可能な装備品を、所持していません。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_161_0",
+        "text_japanese": "MAIN メンバー選択",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_161_1",
+        "text_japanese": "SUB メンバー選択",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_UNLOCK_BACKMEMBER",
+        "text_japanese": "ランク <0> \\nで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_SELECT_REMOVE",
+        "text_japanese": "外す",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_SELECT_MAIN",
+        "text_japanese": "MAIN",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_SELECT_SUB",
+        "text_japanese": "SUB",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_WARNING_CANT_SELECT",
+        "text_japanese": "選択不可",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_65_0",
+        "text_japanese": "編成中(Unit内)",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_74_0",
+        "text_japanese": "編成中(PT内)",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_83_0",
+        "text_japanese": "編成中(入替不可)",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_92_0",
+        "text_japanese": "外す",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTCELL_101_0",
+        "text_japanese": "外せません",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_TITLE_CHECK",
+        "text_japanese": "解除確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_TITLE_NO",
+        "text_japanese": "選択不可",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_REMOBE_MAIN",
+        "text_japanese": "MAIN に設定中のメンバーを外すと\\nSUB メンバーと装備品も外れます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_CHANGE_MAIN",
+        "text_japanese": "MAIN を変更すると\\n装備品が外れます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_NG_OTHER_MAIN",
+        "text_japanese": "同パーティー内の MAIN に\\n同じキャラクターを\\n複数設定することはできません。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_NG_FRONT1",
+        "text_japanese": "FRONT1 の MAIN メンバーを\\n空にすることはできません。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_NG_EMPTY_MAIN",
+        "text_japanese": "MAIN を\\n空にできません。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_ERROR_SET_OTHER_MAIN_CHARA",
+        "text_japanese": "同じパーティーに同キャラクターを\\n複数 MAIN 設定することができません。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_618_0",
+        "text_japanese": "メンバーリストエラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_618_1",
+        "text_japanese": "メンバーリストの取得に失敗しました",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECTWINDOW_CHECK_CONFIRM",
+        "text_japanese": "今後この確認は表示しない",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECT_RESET_DIALOG_TITLE",
+        "text_japanese": "リセット確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERSELECT_RESET_DIALOG_MESSAGE",
+        "text_japanese": "現在の編成をリセットします。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_1",
+        "text_japanese": "ダイヤモンド",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_2",
+        "text_japanese": "プラチナⅠ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_3",
+        "text_japanese": "プラチナⅡ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_4",
+        "text_japanese": "プラチナⅢ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_5",
+        "text_japanese": "ゴールドⅠ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_6",
+        "text_japanese": "ゴールドⅡ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_7",
+        "text_japanese": "ゴールドⅢ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_8",
+        "text_japanese": "シルバーⅠ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_9",
+        "text_japanese": "シルバーⅡ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_10",
+        "text_japanese": "シルバーⅢ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_11",
+        "text_japanese": "ブロンズⅠ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_12",
+        "text_japanese": "ブロンズⅡ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_13",
+        "text_japanese": "ブロンズⅢ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEMAINPANEL_COUNT",
+        "text_japanese": "第<0>回",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEMAINPANEL_171_0",
+        "text_japanese": "挑戦可能回数",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEMAINPANEL_172_0",
+        "text_japanese": "本日の挑戦可能回数が\\nなくなりました。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEMAINPANEL_CLOSE",
+        "text_japanese": "現在、開催されておりません。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_UNCHALLENGED",
+        "text_japanese": "未挑戦",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEMAINPANEL_OPENINGPERIOD",
+        "text_japanese": "<0>～<1>まで",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERANKING_AGGREGATE",
+        "text_japanese": "ランキングは期間開始から\\n24時間後に表示されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERANKING_NONE_PLAYER",
+        "text_japanese": "この順位のプレイヤーはいません。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERANKING_NONE",
+        "text_japanese": "ランキング無し。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERANKINGCELL_28_0",
+        "text_japanese": "順位：<0>位",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERANKINGDIALOG_163_0",
+        "text_japanese": "ランキング情報の取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERESULTDIALOG_RESULTRANK",
+        "text_japanese": "あなたは［ <0> ］でした。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_BESTSCORE",
+        "text_japanese": "ベストスコア",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_PREVSCORE",
+        "text_japanese": "前回のスコア",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANKING",
+        "text_japanese": "ランキング",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_OUT_OF_RANKING",
+        "text_japanese": "ランキング外",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_OUT_OF_RANKING_PERIOD",
+        "text_japanese": "表示期間外",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RANK_NUM",
+        "text_japanese": "<0>位",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERESULTDIALOG_MYRANK",
+        "text_japanese": "順位",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDCELL_43_0",
+        "text_japanese": "未達成",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDCELL_44_0",
+        "text_japanese": "受け取り済み",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDCELL_45_0",
+        "text_japanese": "達成済み",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDDIALOG_OPENRANGE",
+        "text_japanese": "開催期間：<0>～<1>",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDDIALOG_SCORE_REWARD",
+        "text_japanese": "累計スコア報酬",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDDIALOG_SCORE_REWARD_CELL",
+        "text_japanese": "累計スコア",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDDIALOG_RANKING_REWARD",
+        "text_japanese": "ランキング報酬",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERESULTDIALOG_INFOTEXT",
+        "text_japanese": "前回のバトルアリーナが終了しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERESULTDIALOG_INFOTEXT_RECEIVE",
+        "text_japanese": "前回のバトルアリーナが終了しました。\\n報酬はプレゼントに送られました。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGEREWARDDIALOG_TITLE_114514229781932688",
+        "text_japanese": "報酬",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGERULEDIALOG_TEXT_114936068443429008",
+        "text_japanese": "遊び方",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGESTAGEDETAILDIALOG_TEXT_114815906991437928",
+        "text_japanese": "挑戦する",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGESTAGEDETAILDIALOG_TEXT_114815906991437929",
+        "text_japanese": "モンスター",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGESTAGEDETAILDIALOG_TEXT_114815906991437930",
+        "text_japanese": "プレイ報酬",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGESTAGECELL_LOCK_1",
+        "text_japanese": "初級クリア後解放",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGESTAGECELL_LOCK_2",
+        "text_japanese": "中級クリア後解放",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_HAVE",
+        "text_japanese": "所持",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_MAINPANEL_ERROR_TITLE",
+        "text_japanese": "お知らせ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_MAINPANEL_NOT_OPEN_ERROR",
+        "text_japanese": "開催期間が終了しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RESULT_REWARD_DIALOG_TITLE",
+        "text_japanese": "累計スコア報酬獲得",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RESULT_REWARD_DIALOG_MESSAGE",
+        "text_japanese": "累計スコアにより\\n以下の報酬を獲得しました！",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_RESULT＿RANKING_EFFECT_TITLE",
+        "text_japanese": "現在のランキング",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_UNKNOWN_ERROR_DIALOG_TITLE",
+        "text_japanese": "お知らせ",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_CLOSE_MESSAGE",
+        "text_japanese": "バトルアリーナの開催期間が\\n切り替わりました。\\n\\nランキングの発表と報酬配布は\\n開催終了後３時間程度で実施されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_CHALLENGE_COUNT",
+        "text_japanese": "挑戦回数",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_RECOMMENDED_POWER",
+        "text_japanese": "推奨戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_RECOMMENDED_ATTRIBUTE",
+        "text_japanese": "推奨属性",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_RECOMMENDED_ATTRIBUTE_NONE",
+        "text_japanese": "なし",
+        "text_english": "0"
+    },
+    {
+        "id": "AGECHECKDIALOG_109_0",
+        "text_japanese": "エラー：9999",
+        "text_english": "0"
+    },
+    {
+        "id": "AGECHECKDIALOG_109_1",
+        "text_japanese": "入力内容に誤りがあります。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_TITLE",
+        "text_japanese": "データ引き継ぎ",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_DESCRIPTION",
+        "text_japanese": "データ引き継ぎの方法を選択してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_IDPASS",
+        "text_japanese": "ID・パスワードを設定",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_IDPASS_DONE",
+        "text_japanese": "ID・パスワードを設定\\n<color=#e4006e>※設定済み</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_GOOGLE_PLAY",
+        "text_japanese": "Google Playアカウントで\\n連携する",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_GOOGLE_PLAY_DONE",
+        "text_japanese": "Google Playアカウントで\\n連携する　<color=#e4006e>※設定済み</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_GAME_CENTER",
+        "text_japanese": "Game Centerアカウントで\\n 連携する",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_SELECTDIALOG_GAME_CENTER_DONE",
+        "text_japanese": "Game Centerアカウントで\\n 連携する　<color=#e4006e>※設定済み</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_EXEC_SELECTDIALOG_IDPASS",
+        "text_japanese": "ID・パスワードで引き継ぐ",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_117_0",
+        "text_japanese": "パスワードエラー",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_117_1",
+        "text_japanese": "パスワードは半角英数8～16文字で設定してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_PASSWORDINFO",
+        "text_japanese": "※半角英数8～16文字 \\n※大文字、小文字、数字を混ぜる事をおすすめします。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_TITLE",
+        "text_japanese": "データ引き継ぎ",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_INFO",
+        "text_japanese": "データ引き継ぎには、\\n「引き継ぎID」と「パスワード」が必要です。\\nパスワードを設定してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_ID",
+        "text_japanese": "引き継ぎID",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_IDINFO",
+        "text_japanese": "<color=#e6006e>(パスワード設定後、自動的に発行されます)</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_PASSWORD",
+        "text_japanese": "パスワード",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_TITLE",
+        "text_japanese": "アカウント連携",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_DESCRIPTION",
+        "text_japanese": "以下のゲームデータと連携します。\\n本当によろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_DEREGISTRATION_TITLE",
+        "text_japanese": "連携解除確認",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_DEREGISTRATION_DESCRIPTION",
+        "text_japanese": "アカウント連携を解除すると、\\n以下のゲームデータは復旧できなくなります。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_DEREGISTRATION_NOTICE",
+        "text_japanese": "本当にアカウント解除してもよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_ALREADY_TITLE",
+        "text_japanese": "ゲームデータ連携中",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_ALREADY_EXEC_MESSAGE",
+        "text_japanese": "すでに連携済みです。\\n連携を解除する際は、ログイン後の\\nゲーム中メニューの「データ連携」から\\n解除してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_ALREADY_DESCRIPTION",
+        "text_japanese": "ログインした<0>アカウントは\\nすでにアカウント連携しています。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATION_PLATFORM_EXEC_DIALOG_ALREADY_NOTICE",
+        "text_japanese": "別の <0> アカウントと連携を行う場合、\\n現在のアカウント連携を解除する必要があります。\\n<color=#e4006e>※<0> アカウントと連携できる\\nゲームデータは1つのみです。</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_BUTTON_REGISTRATION",
+        "text_japanese": "連携する",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_BUTTON_DEREGISTRATION",
+        "text_japanese": "解除する",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_SUCCEED_TITLE",
+        "text_japanese": "連携完了",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_SUCCEED_MESSAGE",
+        "text_japanese": "<0> アカウントと連携しました。\\n別のアカウントと連携する場合は、\\nデータ引き継ぎから再設定してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_FAILED_TITLE",
+        "text_japanese": "アカウント連携失敗",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_FAILED_MESSAGE",
+        "text_japanese": "ゲームデータの引き継ぎが中断されました。\\n通信が安定している環境でお試しいただくか、\\nゲームデータを連携しているサービスの\\n登録状況を確認の上、再度お試しください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_DEREGISTRATION_FAILED_TITLE",
+        "text_japanese": "アカウント連携解除失敗",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_DEREGISTRAION_FAILED_MESSAGE",
+        "text_japanese": "ゲームデータの引き継ぎ解除が中断されました。\\n通信が安定している環境でお試しいただくか、\\nゲームデータを連携しているサービスの\\n登録状況を確認の上、再度お試しください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_DEREGISTRAION_SUCCEED_TITLE",
+        "text_japanese": "連携解除",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_DEREGISTRAION_SUCCEED_MESSAGE",
+        "text_japanese": "アカウント連携を解除しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_EXEC_SUCCEED_TITLE",
+        "text_japanese": "引き継ぎ完了",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_EXEC_SUCCEED_MESSAGE",
+        "text_japanese": "ゲームデータの引き継ぎが完了しました。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_EXEC_USER_NOT_FOUND",
+        "text_japanese": "<0> アカウントに対応する\\n引き継ぎ設定が見つかりません。\\nゲームデータを連携しているサービスの\\n登録状況を確認の上、再度お試しください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_EXEC_SAME_USER",
+        "text_japanese": "ゲームデータの引き継ぎ元と引き継ぎ先が\\n同一 ID のため引き継ぎは\\n実行されませんでした。",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_111_0",
+        "text_japanese": "バトルを開始できません",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_111_1",
+        "text_japanese": "サーバエラーが発生しました",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_243_0",
+        "text_japanese": "おススメ編成を設定できません",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_243_1",
+        "text_japanese": "サーバエラーが発生しました",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_148_0",
+        "text_japanese": "購入キャンセル",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_148_1",
+        "text_japanese": "購入をキャンセルしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGEWINDOW_138_0",
+        "text_japanese": "購入キャンセル",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGEWINDOW_138_1",
+        "text_japanese": "購入をキャンセルしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "ELLISSHOPWINDOW_135_0",
+        "text_japanese": "購入エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "ELLISSHOPWINDOW_136_0",
+        "text_japanese": "購入に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_131_0",
+        "text_japanese": "購入完了",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_131_1",
+        "text_japanese": "購入しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_132_0",
+        "text_japanese": "購入エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_132_1",
+        "text_japanese": "購入に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTLOGWINDOW_61_0",
+        "text_japanese": "受け取り履歴",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTLOGWINDOW_61_1",
+        "text_japanese": "プレゼント受け取り履歴の取得に失敗",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTWINDOW_84_0",
+        "text_japanese": "プレゼント",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTWINDOW_84_1",
+        "text_japanese": "プレゼントリストの取得に失敗",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_RECEIVED_DIALOG_TITLE",
+        "text_japanese": "アイテム受け取り",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_RECEIVED_DIALOG_MESSAGE",
+        "text_japanese": "以下のアイテムを受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_NOT_RECEIVED_DIALOG_TITLE",
+        "text_japanese": "受け取り不可",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENT_NOT_RECEIVED_DIALOG_MESSAGE",
+        "text_japanese": "<color=#e4006e>以下のアイテムを受け取れませんでした。</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "QUARTZSHOPWINDOW_TITLE",
+        "text_japanese": "購入",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_SUCCESS_TITLE",
+        "text_japanese": "購入完了",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_SUCCESS_MESSAGE",
+        "text_japanese": "購入しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_CANCELED_TITLE",
+        "text_japanese": "購入キャンセル",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_CANCELED_MESSAGE",
+        "text_japanese": "購入をキャンセルしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_ERROR_TITLE",
+        "text_japanese": "購入エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_ERROR_MESSAGE",
+        "text_japanese": "購入に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_RETRY_TITLE",
+        "text_japanese": "購入リトライ",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_RETRY_MESSAGE",
+        "text_japanese": "購入に失敗した商品があります。\\nリトライしますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_INITIALIZE_ERROR_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_INITIALIZE_ERROR_MESSAGE",
+        "text_japanese": "初期化に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_TITLE",
+        "text_japanese": "スタミナ回復",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCOMPLETEDIALOG_TITLE",
+        "text_japanese": "スタミナ回復完了",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_HAVE_REALMONEY",
+        "text_japanese": "所持クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_STAMINA",
+        "text_japanese": "スタミナ",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_RECOVERYCOUNT",
+        "text_japanese": "本日の回復可能回数　<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_DISCRIPTION",
+        "text_japanese": "クオーツ<0>を消費して\\nスタミナを <1> 回復します。よろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCOMPLETEDIALOG_DISCRIPTION",
+        "text_japanese": "クオーツ<0>を消費して\\nスタミナを <1> 回復しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_149_0",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_149_1",
+        "text_japanese": "データの取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_175_0",
+        "text_japanese": "限界通知",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_175_1",
+        "text_japanese": "本日の回復可能回数上限に達しているため\\n回復できません",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_184_0",
+        "text_japanese": "限界通知",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCONFIRMDIALOG_184_1",
+        "text_japanese": "本日の回復可能回数上限に達しているため\\n回復できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_55_0",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_55_1",
+        "text_japanese": "データの取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_79_0",
+        "text_japanese": "限界通知",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_79_1",
+        "text_japanese": "本日の回復可能回数上限に達しているため\\n回復できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_90_0",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_90_1",
+        "text_japanese": "データの取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_100_0",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_100_1",
+        "text_japanese": "データの取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_LIMIT_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYDIALOG_LIMIT_ERROR",
+        "text_japanese": "スタミナ上限<0>を超えた分は\\n破棄されるので購入できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "TICKETSHOPWINDOW_123_0",
+        "text_japanese": "購入完了",
+        "text_english": "0"
+    },
+    {
+        "id": "TICKETSHOPWINDOW_123_1",
+        "text_japanese": "購入しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "TICKETSHOPWINDOW_124_0",
+        "text_japanese": "購入エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "TICKETSHOPWINDOW_124_1",
+        "text_japanese": "購入に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_ERROR_TITLE",
+        "text_japanese": "購入エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_ERROR_MSG",
+        "text_japanese": "購入に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_ITEM_DETAIL_TITLE",
+        "text_japanese": "詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_ITEM_DETAIL_BLACKSMITH_BUTTON",
+        "text_japanese": "鍛冶製作へ",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_PERIOD_ERROR_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_PERIOD_ERROR_MSG",
+        "text_japanese": "交換期間が過ぎています。",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_TIME_LIMIT_TEXT",
+        "text_japanese": "終了まで<0> <1>:<2>",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_RESALE_LIMIT_TEXT",
+        "text_japanese": "再入荷まで<0> <1>:<2>",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_CACHECLEARCONFIRM_TITLE",
+        "text_japanese": "キャッシュクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_CACHECLEARCONFIRM_MESSAGE",
+        "text_japanese": "キャッシュをクリアします。\\nよろしいですか？\\n\\n※中断したクエストがある場合は\\n再開できなくなります。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_88_0",
+        "text_japanese": "キャッシュクリア完了",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_89_0",
+        "text_japanese": "キャッシュクリアが完了しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_DOWNLOADALL_TITLE",
+        "text_japanese": "データダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_DOWNLOADALL_MESSAGE",
+        "text_japanese": "データをダウンロードします。\\n（約 <0:#.##> MB）\\nダウンロードサイズが 50MBを超える場合、\\n Wi-Fi環境でのダウンロードを推奨します。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_DOWNLOADALL_ATTENTION",
+        "text_japanese": "※ ストーリーのボイスや動画は含まれません。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_DOWNLOADALL_BUTTON",
+        "text_japanese": "ダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_TITLE",
+        "text_japanese": "メニュー",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_INFORMATION_BUTTON",
+        "text_japanese": "お知らせ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_CONTACTUS_BUTTON",
+        "text_japanese": "お問い合わせ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_CACHECLEAR_BUTTON",
+        "text_japanese": "キャッシュクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_DATAMIGRATION_BUTTON",
+        "text_japanese": "データ引き継ぎ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLEMENUWINDOW_ALL_DOWNLOAD_BUTTON",
+        "text_japanese": "一括ダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "STAMINARECOVERYCOMPLETEDIALOG_TITLE_114281870793819920",
+        "text_japanese": "スタミナ回復",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_85_0",
+        "text_japanese": "引き継ぎ完了",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_85_1",
+        "text_japanese": "ゲームデータの引き継ぎが完了しました。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYPLANNINGPANEL_129_0",
+        "text_japanese": "おすすめ編成確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYPLANNINGPANEL_130_0",
+        "text_japanese": "現在のパーティー編成を取り消して\\nおすすめ編成に変更します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYPLANNINGPANEL_SKIPTICKET_WARNING",
+        "text_japanese": "クラウン３つ獲得で使用可能になります。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYPLANNINGPANEL_HEADER",
+        "text_japanese": "パーティー編成",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOADDIALOG_DOWNLOAD_TITLE",
+        "text_japanese": "ダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOADDIALOG_DOWNLOAD_MESSAGE",
+        "text_japanese": "データをダウンロードします。\\n（約 <0>）\\nダウンロードサイズが 50MBを超える場合、\\n Wi-Fi環境でのダウンロードを推奨します。",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOADDIALOG_57_0",
+        "text_japanese": "ダウンロード完了",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOADDIALOG_58_0",
+        "text_japanese": "ダウンロードが完了しました。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "ELLISSHOPWINDOW_130_0",
+        "text_japanese": "購入完了",
+        "text_english": "0"
+    },
+    {
+        "id": "ELLISSHOPWINDOW_131_0",
+        "text_japanese": "購入しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGEWINDOW_116_0",
+        "text_japanese": "購入完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGEWINDOW_117_0",
+        "text_japanese": "購入しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "MENUSCREEN_105_0",
+        "text_japanese": "確認画面",
+        "text_english": "0"
+    },
+    {
+        "id": "MENUSCREEN_106_0",
+        "text_japanese": "タイトル画面に戻ります。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_233_0",
+        "text_japanese": "おすすめ編成確認",
+        "text_english": "0"
+    },
+    {
+        "id": "DECKSELECTWINDOW_234_0",
+        "text_japanese": "現在のパーティー編成を取り消して\\nおススメ編成に変更します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_47_0",
+        "text_japanese": "不明なエラー",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_47_1",
+        "text_japanese": "不明なエラーが発生しました。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_53_0",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_53_1",
+        "text_japanese": "メンテナンス中です。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_59_0",
+        "text_japanese": "通信エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "REQUESTDEFAULTERRORLISTENER_59_1",
+        "text_japanese": "通信エラーが発生しました。\\n電波状態を確認してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "LEVELUPCONTROLAREA_219_0",
+        "text_japanese": "強化できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "LEVELUPCONTROLAREA_219_1",
+        "text_japanese": "所持エリスが不足しています。",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAKCONTROLAREA_125_0",
+        "text_japanese": "限界突破できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAKCONTROLAREA_125_1",
+        "text_japanese": "所持エリスが不足しています。",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAKCONTROLAREA_BUTTON",
+        "text_japanese": "限界突破する",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACTER_POWER_UP_LEVEL_MAX",
+        "text_japanese": "<0>\\nのLv.がMAXになりました",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACTER_POWER_UP_SKILL_UP",
+        "text_japanese": "<0>\\nのスキルLv.が上がりました",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACTER_POWER_UP_SKILL_MAX",
+        "text_japanese": "<0>\\nのスキルLv.がMAXになりました",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACTER_POWER_UP_LIMIT_BREAK",
+        "text_japanese": "<0>\\nの最大Lv.が<1>上がりました",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_CHARASELECT_LEFTHEADER",
+        "text_japanese": "バイトキャラ選択",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_ELAPSED_TIME",
+        "text_japanese": "経過時間",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_GET_ITEM_VALUE",
+        "text_japanese": "アイテム獲得数",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_STATUS_EXECUTED",
+        "text_japanese": "バイト中",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_STATUS_CAN_EXECUTION",
+        "text_japanese": "バイト募集中",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_STATUS_COMPLETE",
+        "text_japanese": "バイト完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_ANIMATION_DIALOG_TITLE",
+        "text_japanese": "バイト受付完了！",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_TITLE",
+        "text_japanese": "バイト報酬受け取り完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_INFO",
+        "text_japanese": "以下のアイテムを受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_GET_MONEY",
+        "text_japanese": "獲得エリス",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_RANK",
+        "text_japanese": "絆ランク",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_STARTCONFIRM_TITLE",
+        "text_japanese": "バイト開始確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_STARTCONFIRM_MESSAGE",
+        "text_japanese": "<0>が\\nバイトをはじめます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_STARTCONFIRM_MESSAGE_2",
+        "text_japanese": "<0>と\\n<1>を\\n交代します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_START_TITLE",
+        "text_japanese": "バイト出発",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_ENDCONFIRM_TITLE",
+        "text_japanese": "報酬獲得確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONCHARASELECTORPANEL_ENDCONFIRM_MESSAGE",
+        "text_japanese": "現時点でバイトを止めて\\nここまでの報酬を受け取りますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONSTATUSPANEL_CONTINUE_MESSAGE",
+        "text_japanese": "<0>が\\nバイトに戻りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONSTATUSPANEL_RECEIVE_BUTTON",
+        "text_japanese": "受け取る",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONSTATUSPANEL_INTIMACY_POINT",
+        "text_japanese": "絆P",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONSTATUSPANEL_GET_MONEY",
+        "text_japanese": "獲得エリス",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONSTATUSPANEL_REMAINING_TIME",
+        "text_japanese": "あと<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONSTATUSPANEL_TIME_DAYS",
+        "text_japanese": " <0> 日",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONSTATUSPANEL_TIME_HOURS",
+        "text_japanese": " <0> 時間",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITONSTATUSPANEL_TIME_MINUTES",
+        "text_japanese": " <0> 分",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONLOGCELL_MINUTES_AGO",
+        "text_japanese": "<0>分前",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_CHANGECHARA_BUTTON",
+        "text_japanese": "キャラ変更",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_END_BUTTON",
+        "text_japanese": "バイト終了",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITIONRESULTWINDOW_CONTINUE_BUTTON",
+        "text_japanese": "再開する",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_HOMEVIEW",
+        "text_japanese": "MAX",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_HOMEVIEW_EMPTY",
+        "text_japanese": "募集中",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_UNLOCK_MESSAGE",
+        "text_japanese": "ランク<0>で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_INFORMATION_DIALOG_TITLE",
+        "text_japanese": "バイト報酬",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_INFORMATION_DIALOG_MESSAGE",
+        "text_japanese": "「<0>」\\n<size=28>※12時間で上限に達します。上限を超えて獲得はできません。</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_INFORMATION_DIALOG_MONEY",
+        "text_japanese": "獲得エリス上限",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_INFORMATION_DIALOG_INTIMACY",
+        "text_japanese": "獲得絆P上限",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_INFORMATION_DIALOG_BONUS",
+        "text_japanese": "獲得ボーナスアイテム上限",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_CHARACHANGE_NG_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EXPEDITION_CHARACHANGE_NG_MESSAGE",
+        "text_japanese": "未受け取りの報酬があるので\\nキャラクターを変更できません。\\n報酬受け取り後、再度お試しください。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINFOBOX_INTIMACYRANK",
+        "text_japanese": "絆ランク",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINFOBOX_INTIMACY_CUMULATIVE",
+        "text_japanese": "累計",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINFOBOX_INTIMACY_REST",
+        "text_japanese": "あと",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_TITLE_SELECT_WEAPON",
+        "text_japanese": "武器選択",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_TITLE_SELECT_ACC",
+        "text_japanese": "装飾品選択",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_INFO",
+        "text_japanese": "※長押しで詳細表示します。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_INFO_WEAPON",
+        "text_japanese": "※装備可能な武器のみ表示されています。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_STATUS_TITLE",
+        "text_japanese": "ステータス",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_EQUIP_SKILL_TITLE",
+        "text_japanese": "装備品スキル",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_NONE_ITEM",
+        "text_japanese": "※装備品がありません。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_SWAP_CONFIRM_TITLE",
+        "text_japanese": "装備付替確認",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_SWAP_CONFIRM_INFO",
+        "text_japanese": "現在他のキャラクターが装備中です。\\n装備を取り外して\\nこちらのキャラクターに装備させますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_EQUIP_LIST_ERROR",
+        "text_japanese": "装備品一覧エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_EQUIP_LIST_ERROR_INFO",
+        "text_japanese": "装備品一覧の取得に失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPWINDOW_CHANGE",
+        "text_japanese": "変更する",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPCELL_REMOVE",
+        "text_japanese": "外す",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARASELECTEQUIPCELL_EQUIPPED",
+        "text_japanese": "装備中",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYINFOPANEL_PARTY",
+        "text_japanese": "パーティー",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYINFOPANEL_FORCE",
+        "text_japanese": "総合戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYINFOPANEL_CHANGEBUTTON",
+        "text_japanese": "詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYINFOPANEL_CHANGEDISPLAYBUTTON",
+        "text_japanese": "表示切替",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYINFOPANEL_RECOMMEND",
+        "text_japanese": "おすすめ",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_FORCE",
+        "text_japanese": "戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_MAINCHAPTER",
+        "text_japanese": "章選択",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_UNLOCK",
+        "text_japanese": "解放条件",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_CHAPTER_UNLOCK",
+        "text_japanese": "「<0>」を見る",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_QUEST_UNLOCK",
+        "text_japanese": "メインクエスト「<0>」をクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_QUEST_UNLOCK_EVENT",
+        "text_japanese": "イベントクエスト「<0>」をクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_QUEST_UNLOCK_EVENT_BOSS",
+        "text_japanese": "イベントボス「<0>」を撃退",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_QUEST_UNLOCK_TAP",
+        "text_japanese": "<color=#e4006e>タップでクエストへ移動</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_MAIN_QUEST_UNLOCK",
+        "text_japanese": "<0>章を全て\\n見ると解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_CHAPTER_QUEST_UNLOCK",
+        "text_japanese": "<0>\\nクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_CHARACTER_CHAPTER_UNLOCK",
+        "text_japanese": "キャラ入手で\\n解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_CHARACTER_UNLOCK",
+        "text_japanese": "<0>の絆ランク<1>以上",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_REMINISCENCE_UNLOCK",
+        "text_japanese": "キャラの絆ランクの合計が<0>以上で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_REMINISCENCE_CHAPTER_UNLOCK",
+        "text_japanese": "<0>期を全て\\n見ると解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_READ_UNLOCK",
+        "text_japanese": "「<0>」を見る",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_MEMBER_UNLOCK",
+        "text_japanese": "メンバー「<0>」を獲得",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_EVENT_UNLOCK",
+        "text_japanese": "イベント「<0>」に参加",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_INFO",
+        "text_japanese": "現在公開されているストーリーはここまでです。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_REMINISCENCE_OPEN_INFO",
+        "text_japanese": "【！】続きのストーリーはイベントで見られます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_NON_UNLOCK",
+        "text_japanese": "なし",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_CHARACTERCHAPTER",
+        "text_japanese": "キャラクター選択",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_REMINISCENCECHAPTER",
+        "text_japanese": "ストーリー選択",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_EVENTCHAPTER",
+        "text_japanese": "イベント選択",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_INFO_DOWNLOAD",
+        "text_japanese": "データをダウンロードします。\\nダウンロードサイズが50MBを超える場合、\\nWi-Fi環境でのダウンロードを推奨します。\\n",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_INFO_DOWNLOAD_VOICE",
+        "text_japanese": "※ストーリーのボイスデータは\\nアプリ起動時に都度削除されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_CHAPTER",
+        "text_japanese": "第<0>章",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_TITLE_REMINISCENCE_CHAPTER",
+        "text_japanese": "第<0>期",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_REWARD_TITLE",
+        "text_japanese": "報酬確認",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_REWARD_INFO",
+        "text_japanese": "ストーリー報酬として下記を受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_TITLE",
+        "text_japanese": "ストーリー解放",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_UNLOCKINFO",
+        "text_japanese": "以下のストーリーが解放されました",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_LIST",
+        "text_japanese": "「<0>」が\\n解放されました",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_LIST_LOCK",
+        "text_japanese": "「<0>」のロックが\\n1つ解除されました",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_READ_LATER",
+        "text_japanese": "後で見る",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_GOTO_QUEST_TITLE",
+        "text_japanese": "クエストへ移動",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_GOTO_QUEST_MESSAGE",
+        "text_japanese": "クエストへ移動しますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_MENU_BUTTON",
+        "text_japanese": "メニュー",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_OPEN_LOG_BUTTON",
+        "text_japanese": "ログ",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_AUTO_BUTTON",
+        "text_japanese": "オート",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_HIDE_MESSAGE_BUTTON",
+        "text_japanese": "非表示",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_SKIP_BUTTON",
+        "text_japanese": "スキップ",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_SKIP_DIALOG_TITLE",
+        "text_japanese": "あらすじ",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_SKIP_CONFIRM",
+        "text_japanese": "スキップしてもよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_LOG_WINDOW_TITLE",
+        "text_japanese": "ログ",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_MOVIE_SKIP_DIALOG_TITLE",
+        "text_japanese": "スキップ",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_MOVIE_SKIP_DIALOG_CONFIRM",
+        "text_japanese": "このムービーをスキップしても\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_EVENT_CHAPTER_EMPTY",
+        "text_japanese": "イベント開催に合わせて追加されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_GACHA_CHAPTER_EMPTY",
+        "text_japanese": "ガチャ開催に合わせて追加されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_ETC_CHAPTER_EMPTY",
+        "text_japanese": "その他のストーリーが追加されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORY_ETC_CATEGORY_TITLE_1",
+        "text_japanese": "誕生日",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_FAVORITE",
+        "text_japanese": "お気に入り",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_CHANGE_NAME_TITLE",
+        "text_japanese": "プレイヤー名変更",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_CHANGE_NAME_INFO",
+        "text_japanese": "プレイヤー名を入力してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_CHANGE_NAME_NOTICE",
+        "text_japanese": "※１文字以上８文字以内",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_CHANGE_NAME_PLACEHOLDER",
+        "text_japanese": "プレイヤー名８字",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_PLAYER_RANK",
+        "text_japanese": "プレイヤーランク",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_PLAYER_ID",
+        "text_japanese": "プレイヤーID",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_CHANGE_BUTTON",
+        "text_japanese": "変更",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_COPY_BUTTON",
+        "text_japanese": "コピー",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILE_COPIED_PLAYER_ID",
+        "text_japanese": "プレイヤーIDをコピーしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILESETTINGFAVORITE_TITLE",
+        "text_japanese": "お気に入り設定",
+        "text_english": "0"
+    },
+    {
+        "id": "PROFILESETTINGFAVORITE_INFO",
+        "text_japanese": "※長押しで詳細表示します。",
+        "text_english": "0"
+    },
+    {
+        "id": "PLAYERNAMECHANGEDIALOG_ERROR_TITLE",
+        "text_japanese": "登録不可",
+        "text_english": "0"
+    },
+    {
+        "id": "PLAYERNAMECHANGEDIALOG_ERROR_MESSAGE",
+        "text_japanese": "禁止ワードが含まれているため、\\n変更できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_TITLE_CHAPTER",
+        "text_japanese": "第<0>章",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_TITLE",
+        "text_japanese": "データ引き継ぎ",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_MESSAGE",
+        "text_japanese": "「引き継ぎID」と「パスワード」を入力してください。\\n以前のゲームデータを引き継いで遊べます。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_MIGRATIONHEADER",
+        "text_japanese": "引き継ぎID",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_PASSWORDHEADER",
+        "text_japanese": "パスワード",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_PLACEHOLDER",
+        "text_japanese": "半角英数8～16文字",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECDIALOG_ATTENTION",
+        "text_japanese": "0",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_TITLE",
+        "text_japanese": "引き継ぎ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_MESSAGE",
+        "text_japanese": "以下のゲームデータをこの端末に引き継ぎます。\\nよろしいですか？\\nプレイヤー名：<0>\\nプレイヤーランク：<1>",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_MESSAGE_1",
+        "text_japanese": "以下のゲームデータをこの端末に引き継ぎます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_PLAYERNAME",
+        "text_japanese": "プレイヤー名",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_PLAYERRANK",
+        "text_japanese": "プレイヤーランク",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_PLAYERID",
+        "text_japanese": "プレイヤーID",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONEXECCONFIRMDIALOG_WARNING",
+        "text_japanese": "※一度利用したパスワードは再度利用できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_79_0",
+        "text_japanese": "引き継ぎ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_80_0",
+        "text_japanese": "すでに引き継ぎ設定が完了しています。\\n再設定すると以前の引き継ぎ設定は破棄されます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONDIALOG_83_0",
+        "text_japanese": "再設定する",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_ATTRIBUTE_NONE",
+        "text_japanese": "なし",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_ATTRIBUTE",
+        "text_japanese": "属性",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_SKILL_LV",
+        "text_japanese": "スキルLv.",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_COOLTIME",
+        "text_japanese": "チャージタイム",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_COOLTIME_SEC",
+        "text_japanese": "秒",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_LIMITBLEAK_PASSIVE_MESSAGE",
+        "text_japanese": "限界突破５段階で特性強化",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_TITLE",
+        "text_japanese": "詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_SKILL_UP_PARAM",
+        "text_japanese": "スキルLv.UPで上昇する効果：<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLDETAILDIALOG_LIMITBREAK_UP_PARAM",
+        "text_japanese": "限界突破５段階のEX効果：<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUP_MEMBERSELECT_WINDOW_TITLE",
+        "text_japanese": "メンバーリスト",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_TITLE",
+        "text_japanese": "メンバー育成",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_LVMAX",
+        "text_japanese": "Lv.が最大なので、これ以上強化できません",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_LONG_TAP",
+        "text_japanese": "※アイコンを長押しで連続投入できます",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_MEMBEREMPTY_TITLE",
+        "text_japanese": "控えメンバーがありません",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_MEMBEREMPTY_MESSAGE",
+        "text_japanese": "ガチャを引いてメンバーを集めてみましょう。\\nガチャに行きますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAPOWERUPWINDOW_LIMITBREAK",
+        "text_japanese": "限界突破",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAK_CONFIRMDIALOG_INFO",
+        "text_japanese": "<0>を限界突破します。\\n限界突破すると上限レベルが上昇します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLPOWERUP_CONFIRMDIALOG_INFO",
+        "text_japanese": "<0>を消費して\\n スキルレベルをアップさせます。\\nいずれかのスキルLvが<1>アップします。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLPOWERUP_TEXT",
+        "text_japanese": "ランダムでスキルレベル\\n<0>アップ！",
+        "text_english": "0"
+    },
+    {
+        "id": "SKILLPOWERUP_TEXT_SHORT",
+        "text_japanese": "ランダムでレベル\\n<0>アップ！",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACARDINFOPANEL_LIMITBREAK_COUNT",
+        "text_japanese": "限界突破回数",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAK_RELEASE_EX_TITLE",
+        "text_japanese": "EX特性解放",
+        "text_english": "0"
+    },
+    {
+        "id": "LIMITBREAK_RELEASE_EX_MESSAGE",
+        "text_japanese": "限界突破が５段階目に達しましたので、\\n特性が強化されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_HOME_COSTUME",
+        "text_japanese": "ホーム衣装あり",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_BATTLE_COSTUME",
+        "text_japanese": "バトル衣装あり",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACARDINFOPANEL_WEAPON_TYPE",
+        "text_japanese": "武器種",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBERSELECTWINDOW_SELECTED_CELL",
+        "text_japanese": "選択済み",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARALIBRARYWINDOW_TITLE",
+        "text_japanese": "図鑑",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARALIBRARYWINDOW_UNACQUIRED_CELL",
+        "text_japanese": "未取得",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_TITLE",
+        "text_japanese": "設定",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_TAB_SYSTEM",
+        "text_japanese": "システム",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_TAB_SOUND",
+        "text_japanese": "サウンド",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_TAB_NOTICE",
+        "text_japanese": "通知",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_PERFORMANCE_HEADER",
+        "text_japanese": "パフォーマンス設定",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_PERFORMANCE_MESSAGE",
+        "text_japanese": "設定を下げることで動作が重い、電池消耗に支障がある場合は回避できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BATTLE_HEADER",
+        "text_japanese": "バトル設定",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_RESOLUTION",
+        "text_japanese": "解像度：",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_FRAMERATE",
+        "text_japanese": "フレームレート：",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BATTLE_CUTIN",
+        "text_japanese": "バトルカットイン：",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BATTLE_CUTIN_ONCEADAY",
+        "text_japanese": "1日1回だけ",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BATTLE_AUTO",
+        "text_japanese": "一定時間でAUTO：",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BATTLE_AUTO_MESSAGE",
+        "text_japanese": "バトル開始時に一定時間入力がない場合AUTOに切り替えます",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_HIGH",
+        "text_japanese": "高",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_MIDDLE",
+        "text_japanese": "中",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_LOW",
+        "text_japanese": "低",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_FRAMERATE_HIGH",
+        "text_japanese": "高（60）",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_FRAMERATE_LOW",
+        "text_japanese": "低（30）",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_SOUND_HEADER",
+        "text_japanese": "音量設定",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_BGM",
+        "text_japanese": "BGM",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_SE",
+        "text_japanese": "効果音",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_VOICE",
+        "text_japanese": "ボイス",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_VOICE_DOWNLOAD_WARNING",
+        "text_japanese": "※ボイスの追加は、タイトルメニューから一括ダウンロードをご利用ください。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_STAMINA_HEADER",
+        "text_japanese": "スタミナ全回復時",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_STAMINA_MESSAGE",
+        "text_japanese": "スタミナが全回復した時に通知します。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_EXPEDITION_HEADER",
+        "text_japanese": "バイト獲得アイテム満タン時",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_EXPEDITION_MESSAGE",
+        "text_japanese": "バイトで貰える報酬のいずれかが満タンになった時に通知します。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_NOTICE_HEADER",
+        "text_japanese": "深夜帯は受け取らない",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_NOTICE_MESSAGE",
+        "text_japanese": "24：00～早朝6：59まで、すべての通知を受け取らないようにします。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTINGWINDOW_NOTICE_WORNING",
+        "text_japanese": "※端末設定で通知をOFFにしている場合、通知は受け取れませんのでご注意ください。",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTING_CONFIRM_TITLE",
+        "text_japanese": "設定確認",
+        "text_english": "0"
+    },
+    {
+        "id": "SETTING_CONFIRM_VOICE_DL_MESSAGE",
+        "text_japanese": "ボイスデータダウンロードの設定が\\nOFFになっています。\\n設定画面でONに変更してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_TEXT",
+        "text_japanese": "控えメンバー",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_HAVECOUNT",
+        "text_japanese": "所持数：",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_BYEBYE",
+        "text_japanese": "お別れ時",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_BYEBYECOUNT",
+        "text_japanese": "入手数：",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_GOEXCHANGE",
+        "text_japanese": "交換所へ",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_EMPTYMSG",
+        "text_japanese": "誰もいません",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_RESET",
+        "text_japanese": "リセット",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_BYEBYE_BUTTON",
+        "text_japanese": "お別れする",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_SORT_UP",
+        "text_japanese": "レア昇順",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_SORT_DOWN",
+        "text_japanese": "レア降順",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CHECK_ALL",
+        "text_japanese": "全選択",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CHECK_RARE",
+        "text_japanese": "★2以下選択",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CHECK_RARE2",
+        "text_japanese": "★2以下選択",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CHECK_RARE3",
+        "text_japanese": "★3以下選択",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CONFIRM_TITLE",
+        "text_japanese": "お別れ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CONFIRM_INFO",
+        "text_japanese": "以下のメンバーとお別れします。\\nよろしいですか?",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CONFIRM_RARECOUNT",
+        "text_japanese": "<0>人",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CONFIRM_HAVECOUNT",
+        "text_japanese": "所持数",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_CONFIRM_WARNING",
+        "text_japanese": "★4のメンバーが選択されています。\\n本当にお別れしますか?",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_COMPLETE_TITLE",
+        "text_japanese": "お別れ完了",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_COMPLETE_INFO",
+        "text_japanese": "メンバーとお別れしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_COMPLETE_RARECOUNT",
+        "text_japanese": "<0>人",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_COMPLETE_HAVECOUNT",
+        "text_japanese": "所持数",
+        "text_english": "0"
+    },
+    {
+        "id": "RESERVEMEMBER_COMPLETE_GOEXCHANGE",
+        "text_japanese": "交換所へ",
+        "text_english": "0"
+    },
+    {
+        "id": "INVENTORYWINDOW_TITLE",
+        "text_japanese": "所持品一覧",
+        "text_english": "0"
+    },
+    {
+        "id": "INVENTORYWINDOW_TAB_ITEM",
+        "text_japanese": "消費アイテム",
+        "text_english": "0"
+    },
+    {
+        "id": "INVENTORYWINDOW_TAB_BLACKSMITH_MATERIAL",
+        "text_japanese": "鍛冶素材",
+        "text_english": "0"
+    },
+    {
+        "id": "INVENTORYWINDOW_TAB_LIMITBLEAK_MATERIAL",
+        "text_japanese": "限界突破素材",
+        "text_english": "0"
+    },
+    {
+        "id": "INVENTORYWONDOW_NONE_ITEM",
+        "text_japanese": "アイテムを所持していません。",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENTCONFIRMWINDOW_TITLE",
+        "text_japanese": "利用規約同意確認",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENTCONFIRMWINDOW_MESSAGE",
+        "text_japanese": "このゲームをプレイするためには、\\n利用規約に同意して頂く必要があります。\\n利用規約をご確認の上、\\n「同意する」をタップしてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENTCONFIRMWINDOW_AGREE_BUTTON",
+        "text_japanese": "同意する",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENTCONFIRMWINDOW_DISAGREE_BUTTON",
+        "text_japanese": "同意しない",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENTCONFIRMWINDOW_INFO_BUTTON",
+        "text_japanese": "利用規約",
+        "text_english": "0"
+    },
+    {
+        "id": "ACCOUNT_RESTRICTDIALOG_TITLE",
+        "text_japanese": "アカウント制限",
+        "text_english": "0"
+    },
+    {
+        "id": "ACCOUNT_RESTRICTDIALOG_MESSAGE",
+        "text_japanese": "お客様のアカウントはご利用を制限されています。\\nご不明な点がございましたら、\\nメニューの「お問い合わせ」よりご確認ください。",
+        "text_english": "0"
+    },
+    {
+        "id": "ACCOUNT_RESTRICTDIALOG_GOTOTITLE_BUTTON",
+        "text_japanese": "タイトルへ戻る",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UPDATEDIALOG_TITLE",
+        "text_japanese": "最新バージョン確認",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UPDATEDIALOG_MESSAGE",
+        "text_japanese": "アプリのバージョンアップが必要です。\\nストアから最新バージョンを\\nダウンロードしてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UPDATEDIALOG_GOTOSTORE_BUTTON",
+        "text_japanese": "ストアへ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UPDATEDIALOG_GOTOWEBSITE_BUTTON",
+        "text_japanese": "公式サイトへ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_ATTENTION_TITLE",
+        "text_japanese": "ご注意",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_ATTENTION_MESSAGE",
+        "text_japanese": "このアプリは基本的に無料で遊べますが、\\n一部のアイテムを有料で購入することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UNDERAGE_TITLE",
+        "text_japanese": "未成年の方へ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_UNDERAGE_MESSAGE",
+        "text_japanese": "このアプリをプレイするときには、法定代理人（ご両親など）の許可をもらってください。\\n有料のアイテムを購入するときは、必ず法定代理人（ご両親など）に許可をもらうか、\\n一緒に購入するようにしてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_DATAMIGRATION_OVERWRITE_WARNING",
+        "text_japanese": "お使いの端末には進行中のゲームデータがあります。\\n引き継ぎを行うとゲームデータを上書きしますが、\\nよろしいでしょうか？",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_DATAMIGRATION_COMPLETE_TITLE",
+        "text_japanese": "データ引き継ぎ",
+        "text_english": "0"
+    },
+    {
+        "id": "TITLESCENE_DATAMIGRATION_COMPLETE_WARNING",
+        "text_japanese": "お使いの端末はすでに他の端末で\\nデータ引き継ぎがされています。\\nデータ引き継ぎがされた端末で遊んでください。\\nこの端末で遊びたいときは、このアプリを一度削除し\\n再びインストールしてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_LV",
+        "text_japanese": "Lv. <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_HP",
+        "text_japanese": "体力 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_ATTACK",
+        "text_japanese": "物攻 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_DEFFENCE",
+        "text_japanese": "物防 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_MAGICATTACK",
+        "text_japanese": "魔攻 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_MAGICDEFFENCE",
+        "text_japanese": "魔防 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_INTIMACY",
+        "text_japanese": "絆 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBER_SORT_POWER",
+        "text_japanese": "戦力 <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MAINTENANCE_TITLE",
+        "text_japanese": "メンテナンス",
+        "text_english": "0"
+    },
+    {
+        "id": "MAINTENANCE_IN_MESSAGE",
+        "text_japanese": "ただいまこの機能は\\nメンテナンス中です。\\n完了までしばらくお待ちください。",
+        "text_english": "0"
+    },
+    {
+        "id": "MEMBERSELECTCELL_SELECTED",
+        "text_japanese": "選択済み",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text_japanese": "ミッション「<0>」",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_RECV",
+        "text_japanese": "受け取る",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_ALLRECV",
+        "text_japanese": "全て受け取る",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_CHALLENGE",
+        "text_japanese": "チャレンジ",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_DAILY",
+        "text_japanese": "デイリー",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_NORMAL",
+        "text_japanese": "ノーマル",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_LIMITED",
+        "text_japanese": "期間限定",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_BEGINNER",
+        "text_japanese": "初心者",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_LIMIT1",
+        "text_japanese": "期限：",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_LIMIT2",
+        "text_japanese": "あと<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_LIMIT_DAYS",
+        "text_japanese": "<0>日",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_STATUS",
+        "text_japanese": "達成状況：",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_NOW",
+        "text_japanese": "状況",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_REWARD_TITLE",
+        "text_japanese": "報酬内訳",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_REWARD_MSG",
+        "text_japanese": "報酬は以下のアイテムとなります。",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_RECV_TITLE",
+        "text_japanese": "アイテム受け取り",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_RECV_MSG",
+        "text_japanese": "以下のアイテムを受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_CLEAR",
+        "text_japanese": "現在挑戦できるミッションがありません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_CLEAR_DAILY",
+        "text_japanese": "デイリーミッションは、毎日0時に更新されます",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSIONWINDOW_ALLRECEIVE",
+        "text_japanese": "すべて受け取る",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_ERROR_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_ERROR_UNTRYMISSION",
+        "text_japanese": "このミッションは\\nまだクリアしていません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_ERROR_NOT_OPEN",
+        "text_japanese": "このミッションは\\n期間が終了しています。",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESULT_CHARCTER_INTIMACY_RANK",
+        "text_japanese": "絆ランク",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESULT_CHARCTER_LEVEL",
+        "text_japanese": "Lv.",
+        "text_english": "0"
+    },
+    {
+        "id": "HUNTING_QUEST_TITLE_FREE",
+        "text_japanese": "いつでもクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "HUNTING_QUEST_TITLE_LIMITED",
+        "text_japanese": "今だけクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "HUNTING_QUEST_COUNT_OVER_WARNING",
+        "text_japanese": "挑戦可能回数が上限に達しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "HUNTING_QUEST_CHALLENGE_COUNT",
+        "text_japanese": "挑戦回数",
+        "text_english": "0"
+    },
+    {
+        "id": "HUNTING_QUEST_POSSIBLE_CHALLENGE_COUNT",
+        "text_japanese": "挑戦可能回数",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_TAB_LOCK_MESSAGE",
+        "text_japanese": "1章のNORMALクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_LOCK_MESSAGE",
+        "text_japanese": "<0>クリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_LOCK_MESSAGE_2",
+        "text_japanese": "<0>章全クリアと\\n<1>クリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_HARD_LOCK_MESSAGE",
+        "text_japanese": "<0>章のNORMAL\\n<1>章のHARD\\nクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_START_BUTTON",
+        "text_japanese": "挑戦する",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_PREPARATION_BUTTON",
+        "text_japanese": "挑戦準備",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_CHALLENGE_COUNT_OVER_WARNING",
+        "text_japanese": "挑戦可能回数が上限に達しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_CHALLENGE_COUNT_OVER_WARNING_2",
+        "text_japanese": "本日の撃退可能回数が上限に達しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_CHALLENGE_NO_LIMIT",
+        "text_japanese": "制限なし",
+        "text_english": "0"
+    },
+    {
+        "id": "BACKTO_QUEST",
+        "text_japanese": "クエストに戻る",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_JOB",
+        "text_japanese": "バイトへ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_SCORE_CHALLENGE",
+        "text_japanese": "アリーナへ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_PARTYPLANNING",
+        "text_japanese": "編成へ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_BLACKSMITH",
+        "text_japanese": "鍛冶へ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_MEMBERPOWERUP",
+        "text_japanese": "メンバー強化へ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_SHOP",
+        "text_japanese": "ショップへ",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_HUNTING",
+        "text_japanese": "挑戦する",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGEINFOPANEL_USE_TICKET_VALUE",
+        "text_japanese": "<0>枚 使う",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGEINFOPANEL_STAMINA_EMPTY",
+        "text_japanese": "<color=#e4006e>不足</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_INTIMACY_REWARD_RECEIVE_WINDOW_MESSAGE",
+        "text_japanese": "以下のアイテムを受け取りました。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_PRESENT",
+        "text_japanese": "ご褒美",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_PRESENT_RANK_MAX_MESSAGE",
+        "text_japanese": "絆ランクMAXのため\\nご褒美を渡せません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MAINQUESTAREASELECTOR_LOCK_MESSAGE",
+        "text_japanese": "クエスト<0>章\\nクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEENEVENT_LIMIT",
+        "text_japanese": "あと<0>日",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_MSG",
+        "text_japanese": "以前購入されたクオーツに関して\\nプラットフォームからの返金を\\n確認いたしました。\\n\\nそのため、返金分のクオーツを所持数から\\n相殺させていただきました。\\n\\nご不明点等ございましたらお問い合わせより\\nご確認お願いいたします。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_SERVICESTOP_WARNING",
+        "text_japanese": "以前購入されたクオーツに関して\\nプラットフォームからの返金を\\n確認いたしました。\\n\\nそのため、返金分のクオーツを所持数から\\n相殺しようとしたところ、\\nすでに消費済みであることが確認されました。\\n\\n返金をご希望の場合は、取得したクオーツを\\n消費しないようお願いいたします。\\n悪用防止のため、今後も同様の事象を\\n確認した場合は課金を停止させていただく\\n可能性がございます。\\n\\nご不明点等ございましたらお問い合わせより\\nご確認お願いいたします。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_SERVICESTOP_MONTH",
+        "text_japanese": "以前購入されたクオーツに関して\\nプラットフォームからの返金を\\n確認いたしました。\\n\\nそのため、返金分のクオーツを所持数から\\n相殺しようとしたところ、\\nすでに消費済みであることが確認されました。\\n\\n同現象が複数回確認されたため\\nお客様のアカウントによる\\n課金を30日間停止させていただきます。\\n\\nご不明点等ございましたらお問い合わせより\\nご確認お願いいたします。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_SERVICESTOP_NOW",
+        "text_japanese": "現在課金停止中です。\\n再開日は<0>です。\\n\\nご不明点等ございましたらお問い合わせより\\nご確認お願いいたします。",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_OK",
+        "text_japanese": "確認しました",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_CONTACT",
+        "text_japanese": "問い合わせる",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_REFUND_SERVICESTOP_DAY",
+        "text_japanese": "yyyy年MM月dd日",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_LIMIT_OVER_TITLE",
+        "text_japanese": "課金限度額超過",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_LIMIT_OVER_MSG",
+        "text_japanese": "この購入を行うことで今月の課金額が\\n<0>円を超えるため、購入できません。\\n\\n今月の購入可能残高<1>円",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_LIMIT_OVER_ALERT_TITLE",
+        "text_japanese": "ご注意",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_LIMIT_OVER_ALERT_MSG",
+        "text_japanese": "この購入を行うことで今月の課金額が\\n<0>円を超えます。\\n購入を続けますか?",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_INVALID_PRODUCT_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_INVALID_PRODUCT_MSG",
+        "text_japanese": "販売期間が終了しました",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_ALREADY_PURCHASED_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "PURCHASE_ALREADY_PURCHASED_MSG",
+        "text_japanese": "既に購入済みです",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_SETTING_WINDOW_BUTTON",
+        "text_japanese": "設定へ",
+        "text_english": "0"
+    },
+    {
+        "id": "PUSH_STAMINA_MAX",
+        "text_japanese": "スタミナが全回復したわよ！さぁ冒険に行きましょう！",
+        "text_english": "0"
+    },
+    {
+        "id": "PUSH_JOB_FINISH",
+        "text_japanese": "バイトが完了したわよ！報酬を受け取りましょう！",
+        "text_english": "0"
+    },
+    {
+        "id": "PUSH_CHANNEL_NAME",
+        "text_japanese": "Push通知機能",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINTERACTION_VOICE_UNLOCK_MESSAGE",
+        "text_japanese": "絆ランク<0>で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINTERACTION_VOICE_UNLOCK_MESSAGE_MEMBER",
+        "text_japanese": "<0>\\n取得で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAINTERACTION_BG_UNLOCK_MESSAGE",
+        "text_japanese": "<0>で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_TITLE",
+        "text_japanese": "引き継ぎ設定完了",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_DESCRIPTIONTEXT1",
+        "text_japanese": "<color=#e6006e>引き継ぎID・パスワードはセキュリティ上、\\nこの画面を閉じると再表示されません。</color>\\nスクリーンショット等で必ず控えてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_DESCRIPTIONTEXT2",
+        "text_japanese": "※入力したパスワードは一度のみ有効となります。",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_ID",
+        "text_japanese": "引き継ぎID",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_PASSWORD",
+        "text_japanese": "パスワード",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_CLOSE",
+        "text_japanese": "タイトルへ戻る",
+        "text_english": "0"
+    },
+    {
+        "id": "DATAMIGRATIONCOMPLETEDIALOG_IDCOPY",
+        "text_japanese": "ID・パスワードをコピー",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_TITLE",
+        "text_japanese": "おすすめ編成確認",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTRPRIORITY_HEADER",
+        "text_japanese": "優先したい属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_FORMATIONRANGE_HEADER",
+        "text_japanese": "編成する範囲",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_NONE",
+        "text_japanese": "なし",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_FIRE",
+        "text_japanese": "火属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_WATER",
+        "text_japanese": "水属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_EARTH",
+        "text_japanese": "地属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_WIND",
+        "text_japanese": "風属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_THUNDER",
+        "text_japanese": "雷属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_LIGHT",
+        "text_japanese": "光属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_ATTR_CURSED",
+        "text_japanese": "闇属性",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_FORMATION_MAIN",
+        "text_japanese": "メインメンバー",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_FORMATION_SUB",
+        "text_japanese": "サブメンバー",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_FORMATION_EQUIP",
+        "text_japanese": "装備",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_INFORMATION",
+        "text_japanese": "※サブメンバーと装備はメインメンバーを設定している場合のみ編成されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAORGANIZATIONDIALOG_WARNING",
+        "text_japanese": "※編成する範囲を一つ以上チェックしてください。",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_CONFIRM_TITLE",
+        "text_japanese": "購入確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PACKSHOPWINDOW_CONFIRM_TEXT",
+        "text_japanese": "クオーツ <color=#e4006e><0></color> を消費して\\n<1> を購入します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "DRESS_MEMBER_UNLOCK",
+        "text_japanese": "<0>\\n取得で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_RESULT_WARNING_TEXT",
+        "text_japanese": "※すでに仲間になったメンバーは控えメンバーになります",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_SHORTAGE_TICKET_TEXT",
+        "text_japanese": "チケット不足です",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DRAW_END_TEXT",
+        "text_japanese": "すでに\\n引き終わってます",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DRAW_LIMIT_END_TEXT",
+        "text_japanese": "次回0時\\nリセット",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGINBONUS_ITEMTITLE",
+        "text_japanese": "アイテム獲得",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGINBONUS_ITEMMSG",
+        "text_japanese": "以下のアイテムがプレゼントボックスに送られました。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_RESULT_RECVTITLE",
+        "text_japanese": "アイテム受け取り",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_RESULT_RECVMSG",
+        "text_japanese": "以下のアイテムがプレゼントボックスに送られました。",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLERESULT_RESTART_TITLE",
+        "text_japanese": "再戦確認",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_TITLE",
+        "text_japanese": "クエスト再開確認",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_MESSAGE",
+        "text_japanese": "中断されたクエストがあります。\\n再開しますか？\\n※キャンセルするとリタイアとなります。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_TICKET",
+        "text_japanese": "チケットを消費してガチャを<0>回引きます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE",
+        "text_japanese": "クオーツを消費してガチャを<0>回引きます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_FREE",
+        "text_japanese": "クオーツを消費してガチャを<0>回引きます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_REAL",
+        "text_japanese": "有償クオーツを消費してガチャを<0>回引きます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_NOCHARGE",
+        "text_japanese": "無償でガチャを<0>回引きます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_RESET_TIME",
+        "text_japanese": "\\n(回数は24:00にリセットされます)",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_SHORT_TICKET",
+        "text_japanese": "チケットが不足しています",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_SHORT_JEWEL",
+        "text_japanese": "クオーツが不足しています",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_MESSAGE_SHORT_REAL_JEWEL",
+        "text_japanese": "クオーツが不足しています\\nこのガチャは有償で引くことができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CONFIRM_GOTO_SHOP_BUTTON",
+        "text_japanese": "クオーツ購入",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_BUTTON",
+        "text_japanese": "詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_TAB_MEMBER",
+        "text_japanese": "メンバー詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_TAB_GACHA",
+        "text_japanese": "ガチャ説明",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_TAB_RATE",
+        "text_japanese": "提供割合",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_TAB_HISTORY",
+        "text_japanese": "ガチャ履歴",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_TITLE",
+        "text_japanese": "下記の提供割合でメンバーが出現します。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_1",
+        "text_japanese": "※提供割合に基づき1回ごとに抽選を行います。\\n※「10回引く（1回目〜9回目）」および「1回引く」は、同じ提供割合です。\\n※「10回引く」の10回目は★4のメンバーが確定で出現します。\\n※個別に表示している提供割合は小数点第4位以下を四捨五入した値となっているため、\\n　すべて合算しても100%とならない場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_2",
+        "text_japanese": "※提供割合に基づき1回ごとに抽選を行います。\\n※「10回引く（1回目〜9回目）」および「1回引く」は、同じ提供割合です。\\n※「10回引く」の10回目は★3以上のメンバーが確定で出現します。\\n※個別に表示している提供割合は小数点第4位以下を四捨五入した値となっているため、\\n　すべて合算しても100%とならない場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_3",
+        "text_japanese": "※提供割合に基づき1回ごとに抽選を行います。\\n※個別に表示している提供割合は小数点第4位以下を四捨五入した値となっているため、\\n　すべて合算しても100%とならない場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_4",
+        "text_japanese": "※提供割合に基づき1回ごとに抽選を行います。\\n※個別に表示している提供割合は小数点第4位以下を四捨五入した値となっているため、\\n　すべて合算しても100%とならない場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_10COUNT",
+        "text_japanese": "■「10回引く（1回目〜9回目）」及び「1回引く」",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_10TH",
+        "text_japanese": "■「10回引く（10回目）」",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_TICKET",
+        "text_japanese": "■「チケットで引く」",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_10COUNT_MEMBER",
+        "text_japanese": "■「10回引く（1回目〜9回目）」及び「1回引く」提供割合",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_10TH_MEMBER",
+        "text_japanese": "■「10回引く（10回目）」提供割合",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_INFO_WINDOW_RATE_TEXT_MEMBER",
+        "text_japanese": "■提供割合",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_ERROR_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NOT_OPEN_ERROR",
+        "text_japanese": "開催期間が終了しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_BEGINNER_TIME_DAY",
+        "text_japanese": "期限：あと <0>日",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_BEGINNER_TIME_HOUR",
+        "text_japanese": "期限：あと <0>時間 <1>分",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_CHARGE_BASE",
+        "text_japanese": "<0>ガチャチャージ",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_FIRST_TICKET",
+        "text_japanese": "初回0",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_CLOSED",
+        "text_japanese": "未開催",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_NOTICE_BUTTON",
+        "text_japanese": "ボスバトルへ",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_NOTICE_BALLOON",
+        "text_japanese": "イベントボス襲来中",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_HAVE",
+        "text_japanese": "所持",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_END_PERIOD",
+        "text_japanese": "期間終了",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_QUEST",
+        "text_japanese": "クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_MAINQUEST",
+        "text_japanese": "メインクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_BOSS",
+        "text_japanese": "ボスバトル",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_STORY",
+        "text_japanese": "イベント\\nストーリー",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_GACHA",
+        "text_japanese": "ガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BUTTON_EXCHANGE",
+        "text_japanese": "交換",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RULE",
+        "text_japanese": "ルール説明",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGESELECT_TITLE_BOSS",
+        "text_japanese": "ボスバトル",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGESELECT_RECCOMEND_FORCE",
+        "text_japanese": "推奨戦力",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGESELECT_UNLOCK",
+        "text_japanese": "<0>で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_WINS",
+        "text_japanese": "撃退回数",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_HAVE",
+        "text_japanese": "所持",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_COST",
+        "text_japanese": "消費",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_WINS_COUNT",
+        "text_japanese": "<0> 回",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_TICKET_COUNT",
+        "text_japanese": "<0> 枚",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_MEDAL_COUNT",
+        "text_japanese": "<0> 枚",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STAGEINFO_EMPTY",
+        "text_japanese": "※挑戦券が足りません。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_MOVEDIALOG_TITLE",
+        "text_japanese": "移動確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_MOVEDIALOG_INFO",
+        "text_japanese": "挑戦券を集めてボスに挑戦できます。\\nボス挑戦チケットは\\nイベントクエストで獲得できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_MOVEDIALOG_MAINQUEST_INFO",
+        "text_japanese": "挑戦券を集めてボスに挑戦できます。\\nボス挑戦チケットは\\nメインクエストで獲得できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_MOVEDIALOG_GOTO_QUEST",
+        "text_japanese": "クエストへ",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_STORYDIALOG_INFO",
+        "text_japanese": "ストーリーを閲覧するとアイテムを獲得できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RESTART_CONFIRM_TEXT",
+        "text_japanese": "挑戦券を <color=#e4006e><0></color> 消費して\\n同じパーティーでクエストを実行します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BOSS_ALIVE_RESULT_DAMAGE_INFO_TEXT",
+        "text_japanese": "挑戦回数：<color=#faf0e6><2>回</color>　今回与えたダメージ：<color=#faf0e6><1></color>　今回割合：<color=#faf0e6><0:0.##>%</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_HISTORY_BUTTON",
+        "text_japanese": "ガチャ履歴",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_HISTORY_TITLE",
+        "text_japanese": "メダルガチャ履歴",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_HISTORY_MESSAGE",
+        "text_japanese": "表示は直近の1ヶ月分となります。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_HISTORY_EMPTY_MESSAGE",
+        "text_japanese": "履歴はありません。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_SETTING_BUTTON",
+        "text_japanese": "ガチャ設定",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_SETTING_TITLE",
+        "text_japanese": "メダルガチャ設定",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_SHOOT_COUNT_MESSAGE",
+        "text_japanese": "メダルガチャを連続で引く場合の最大回数を設定できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_SHOOT_COUNT",
+        "text_japanese": "<0> 回",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_SHOOT_COUNT_BUTTON",
+        "text_japanese": "<0>回引く",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_ITEM_NOT_ENOUGH",
+        "text_japanese": "<0>を所持していません。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_LINEUP_TITLE",
+        "text_japanese": "ステップ<0>のラインナップ",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_LINEUP_RESET_REWARD_HEADER",
+        "text_japanese": "リセット対象アイテム",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_LINEUP_NORMAL_REWARD_HEADER",
+        "text_japanese": "通常アイテム",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_LINEUP_RESET_BUTTON",
+        "text_japanese": "リセットする",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_STEP_TITLE",
+        "text_japanese": "全ステップ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_STEP_INFO_TITLE",
+        "text_japanese": "ラインナップのリセットについて",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENT_BOXGACHA_DESCRIPTION_01",
+        "text_japanese": "ガチャでリセットアイテムを入手すると、即時ラインナップのリセットが行えます。\\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップを交換することも可能です。\\nステップ5以降もラインナップのリセットを行えますが、繰り返し同じラインナップになります。",
+        "text_english": "仮"
+    },
+    {
+        "id": "EVENTGACHA_STEP_TAB",
+        "text_japanese": "<0>回目",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_STEP_TAB_OVER",
+        "text_japanese": "<0>回目以降",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESET_BUTTON",
+        "text_japanese": "ラインナップをリセット",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESHOOT_BUTTON",
+        "text_japanese": "もう一度引く",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_LINEUP_BUTTON",
+        "text_japanese": "ステップ<0>",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_REMAINING",
+        "text_japanese": "残り",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESET_CONFIRM_TITLE",
+        "text_japanese": "リセット確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESET_CONFIRM_MESSAGE",
+        "text_japanese": "リセットすることにより、\\nアイテムが新しいラインナップに切り替わります。\\nリセット後はもとに戻すことができません。\\n\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESET_COMPLETE_TITLE",
+        "text_japanese": "リセット完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESET_COMPLETE_MESSAGE",
+        "text_japanese": "アイテムラインナップをリセットしました。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESULT_TITLE",
+        "text_japanese": "獲得詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTGACHA_RESULT_MESSAGE",
+        "text_japanese": "※獲得したアイテムはプレゼントBOXに送られます。",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_SETTLEMENT_TITLE",
+        "text_japanese": "資金決済法に基づく表示",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_TRANSACTION_TITLE",
+        "text_japanese": "特定商取引法に基づく表示",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_QUARTZ_INFORMATION_TITLE",
+        "text_japanese": "この商品について",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_PACK_INFORMATION_TITLE",
+        "text_japanese": "この商品について",
+        "text_english": "0"
+    },
+    {
+        "id": "SHOP_ELLIS_INFORMATION_TITLE",
+        "text_japanese": "この商品について",
+        "text_english": "0"
+    },
+    {
+        "id": "LUCKY_BOX_INFORMATION_TITLE",
+        "text_japanese": "この商品について",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_SKIP_TITLE",
+        "text_japanese": "スキップ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_SKIP_MSG",
+        "text_japanese": "バトルチュートリアルを開始しますか？\\n<size=28>※スキップすることが可能です。</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_SKIP_BUTTON1",
+        "text_japanese": "はじめる",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_SKIP_BUTTON2",
+        "text_japanese": "スキップする",
+        "text_english": "0"
+    },
+    {
+        "id": "PART_TIME_JOB_START_TITLE",
+        "text_japanese": "バイト出発",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_TIMEOUT_MESSAGE",
+        "text_japanese": "クエストの開催期間が終了しているため、\\n再開できませんでした。",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_UNKNOWN_TITLE",
+        "text_japanese": "不明なエラー",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_UNKNOWN_MESSAGE",
+        "text_japanese": "不明なエラーが発生しました。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_MAINTENANCE_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_MAINTENANCE_MESSAGE",
+        "text_japanese": "メンテナンス中です。\\nタイトルに戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_TIME_OUT_TITLE",
+        "text_japanese": "通信エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_TIME_OUT_MESSAGE",
+        "text_japanese": "通信エラーが発生しました。\\n電波状態を確認してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_RETRY_TEXT",
+        "text_japanese": "リトライ",
+        "text_english": "0"
+    },
+    {
+        "id": "ERROR_DIALOG_BACK_TO_TITLE_TEXT",
+        "text_japanese": "タイトルへ戻る",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_UNLOCK_MESSAGE",
+        "text_japanese": "ランク <0>\\nで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_EMPTY_POPUP_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_EMPTY_POPUP_MAIN",
+        "text_japanese": "MAINを設定してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_EMPTY_POPUP_SUB",
+        "text_japanese": "SUBメンバーを設定すると\\n特性が反映されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_EMPTY_POPUP_WEAPON",
+        "text_japanese": "特性付きの武器を設定すると\\n特性が反映されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "PARTYMEMBERDETAILPANEL_EMPTY_POPUP_ACCESSORY",
+        "text_japanese": "特性付きの装飾品を設定すると\\n特性が反映されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_QUEST_NORMAL",
+        "text_japanese": "クエストをリタイアすると報酬を獲得できず、\\nスタミナが<color=#e4006e><0></color>消費されます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_QUEST_HARD",
+        "text_japanese": "クエストをリタイアすると報酬を獲得できず、\\nスタミナが<color=#e4006e><0></color>消費されます。\\n挑戦回数は消費されません。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_QUEST_FREE",
+        "text_japanese": "リタイアすると報酬を獲得できません。\\n挑戦回数は消費されません。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_QUEST_CHALLENGE",
+        "text_japanese": "クエストをリタイアすると報酬を獲得できず、\\n挑戦回数が<color=#e4006e>1</color>消費されます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_BATTLE_QUEST",
+        "text_japanese": "リタイアすると報酬を獲得できず、\\nボス挑戦券が <color=#e4006e><0></color> 消費されます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "RETIRE_BATTLE_MARATHON_BOSS",
+        "text_japanese": "リタイアすると報酬を獲得できず、\\nボスのHP状況もバトル前に戻ります。\\nボス挑戦券が <color=#e4006e>1</color>消費されます。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTCELL_GET_DATE",
+        "text_japanese": "獲得日時",
+        "text_english": "0"
+    },
+    {
+        "id": "PRESENTCELL_RECEIVE_LIMIT",
+        "text_japanese": "受け取り期限",
+        "text_english": "0"
+    },
+    {
+        "id": "ITEM_CONFIRM_DIALOG_TITLE",
+        "text_japanese": "アイテム受け取り確認",
+        "text_english": "0"
+    },
+    {
+        "id": "ITEM_CONFIRM_DIALOG_INFO",
+        "text_japanese": "以下のアイテムをまとめて受け取ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_1",
+        "text_japanese": "入手方法",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_2",
+        "text_japanese": "入手方法",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_MONEY",
+        "text_japanese": "エリスは\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_LV",
+        "text_japanese": "パワーポーションは\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_SKILL",
+        "text_japanese": "スキルポーションは\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_SKILL_EVENT",
+        "text_japanese": "スキルポーション（専用）は\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_MEMBER",
+        "text_japanese": "控えメンバーは\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_TITLE_WEAPON",
+        "text_japanese": "<0>は\\n以下で入手できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_FREE",
+        "text_japanese": "フリークエスト\\n<size=32>エリスクエストにチャレンジ！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_FREE_EXP",
+        "text_japanese": "フリークエスト\\n<size=32>経験値クエストにチャレンジ！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_FREE_LIMIT",
+        "text_japanese": "フリークエスト\\n<size=32>魔道具クエストにチャレンジ！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EXPEDITION",
+        "text_japanese": "バイト\\n<size=32>バイトでエリスを稼ごう！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EXPEDITION_REWARD",
+        "text_japanese": "バイト\\n<size=32>バイト報酬で入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_ARENA",
+        "text_japanese": "バトルアリーナ\\n<size=32>１日３回チャレンジ！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_MAIN",
+        "text_japanese": "メインクエスト\\n<size=32>ノーマル宝箱から入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EXCHANGE",
+        "text_japanese": "交換所\\n<size=32>各交換所から入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EXCHANGE_MEDAL",
+        "text_japanese": "冒険者メダル交換所\\n<size=32>冒険者メダル交換で入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EXCHANGE_ARENA",
+        "text_japanese": "アリーナメダル交換所\\n<size=32>アリーナメダル交換で入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_MEMBER",
+        "text_japanese": "控えメンバー\\n<size=32>冒険者メダルはお別れで入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_GACHA",
+        "text_japanese": "ガチャ\\n<size=32>同じメンバー獲得で控えメンバーに！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EVENT_EXCHANGE",
+        "text_japanese": "エンブレム交換所\\n<size=32>エンブレム交換所で入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_EVENT_GACHA",
+        "text_japanese": "討伐メダルガチャ\\n<size=32>討伐メダルガチャで入手！</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CELL_LOCK",
+        "text_japanese": "プレイヤーランク<0>で解放！",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_CHARA_PRESENT",
+        "text_japanese": "ご褒美は、クエストで\\nスキップチケットを使うことで、\\n絆Pがご褒美に変換され\\n獲得できます。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_EMPTY",
+        "text_japanese": "現在、この素材を獲得可能な\\nコンテンツは開放されておりません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_EMPTY_EVENT",
+        "text_japanese": "イベント期間外のため入手できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_EMPTY_EVENT_MEMBER",
+        "text_japanese": "こちらはイベントで獲得できるメンバーです。",
+        "text_english": "0"
+    },
+    {
+        "id": "MATERIAL_LACK_DIALOG_ERROR",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "INFORMATIONWINDOW_TITLE",
+        "text_japanese": "お知らせ",
+        "text_english": "0"
+    },
+    {
+        "id": "INFORMATIONWINDOW_TAB_UPDATE",
+        "text_japanese": "更新情報",
+        "text_english": "0"
+    },
+    {
+        "id": "INFORMATIONWINDOW_TAB_EVENT",
+        "text_japanese": "開催情報",
+        "text_english": "0"
+    },
+    {
+        "id": "INFORMATIONWINDOW_TAB_TWITTER",
+        "text_japanese": "Twitter",
+        "text_english": "0"
+    },
+    {
+        "id": "INFORMATIONWINDOW_TAB_ISSUE",
+        "text_japanese": "不具合情報",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_VOICE_HEADER",
+        "text_japanese": "ボイス",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_DRESS_HEADER",
+        "text_japanese": "着せ替え",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_BG_HEADER",
+        "text_japanese": "背景",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_VOICE_TITLE",
+        "text_japanese": "ボイス",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_DRESS_TITLE",
+        "text_japanese": "着せ替え選択",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_BG_TITLE",
+        "text_japanese": "背景選択",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_BGTAB_NORMAL",
+        "text_japanese": "通常",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_BGTAB_OTHERS",
+        "text_japanese": "イベント他",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_VOICE_PLAY",
+        "text_japanese": "再生",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_DRESS_UP",
+        "text_japanese": "変更",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_BACKGROUND_CHANGE",
+        "text_japanese": "変更",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARAVOICEDRESSBACKGROUNDSELECTOR_OTHERBG_EMPTY_MESSAGE",
+        "text_japanese": "イベント等で獲得した背景が追加されます。",
+        "text_english": "0"
+    },
+    {
+        "id": "SCORECHALLENGE_UNLOCK_MESSAGE",
+        "text_japanese": "ランク<0>\\nで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_CHARACTER_VOICE_CONFIRM",
+        "text_japanese": "交流画面で確認できます",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_CHARACTER_VOICE",
+        "text_japanese": "<0>まで解放されました",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_FREE",
+        "text_japanese": "フリークエストが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_SCORECHALENGE",
+        "text_japanese": "バトルアリーナが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_SUBPARTY",
+        "text_japanese": "SUBメンバーが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_BLACKSMITH",
+        "text_japanese": "鍛冶が\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_EVENT",
+        "text_japanese": "イベントが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_JOB",
+        "text_japanese": "バイトが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_BACKPARTY",
+        "text_japanese": "BACKメンバーが\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_EQUIPMENT3",
+        "text_japanese": "★3装備の製作が\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RELEASE_EQUIPMENT4",
+        "text_japanese": "★4装備の製作が\\n解放されました。",
+        "text_english": "0"
+    },
+    {
+        "id": "PLAYER_RANK_UP",
+        "text_japanese": "プレイヤーランクが上がり、スタミナが<color=#e4006e><0>回復</color>しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "RECOMMENDQUEST_TYPE_MAIN",
+        "text_japanese": "メイン",
+        "text_english": "0"
+    },
+    {
+        "id": "RECOMMENDQUEST_TYPE_FREE",
+        "text_japanese": "フリー",
+        "text_english": "0"
+    },
+    {
+        "id": "RECOMMENDQUEST_TYPE_PARTTIME",
+        "text_japanese": "バイト",
+        "text_english": "0"
+    },
+    {
+        "id": "RECOMMENDQUEST_TYPE_SCORECHALLENGE",
+        "text_japanese": "スコチャレ",
+        "text_english": "0"
+    },
+    {
+        "id": "RECOMMENDQUEST_TYPE_EVENT",
+        "text_japanese": "イベント",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_NAME_TITLE",
+        "text_japanese": "プレイヤー名設定",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_NAME_INFO",
+        "text_japanese": "プレイヤー名を入力してください。",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_NAME_NOTICE",
+        "text_japanese": "※１文字以上８文字以内",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_PLACEHOLDER",
+        "text_japanese": "プレイヤー名８字",
+        "text_english": "0"
+    },
+    {
+        "id": "SKIP_TICKET_RESULT_SKIP",
+        "text_japanese": "スキップ完了",
+        "text_english": "0"
+    },
+    {
+        "id": "SKIP_TICKET_RESULT_NUM",
+        "text_japanese": "<0>回目",
+        "text_english": "0"
+    },
+    {
+        "id": "SKIP_TICKET_RESULT_TOTAL",
+        "text_japanese": "合計結果",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_RESULT_TITLE",
+        "text_japanese": "クエスト情報を取得できませんでした",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_RESULT_MESSAGE",
+        "text_japanese": "クエストを中断から再開した場合、\\nクエスト終了後はホーム画面に戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "ALREADY_FINISHED_DOWNLOAD_TITLE",
+        "text_japanese": "データダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "ALREADY_FINISHED_DOWNLOAD_MESSAGE",
+        "text_japanese": "すでにダウンロードは完了しています。",
+        "text_english": "0"
+    },
+    {
+        "id": "EXCHANGE_DIALOG_ITEM_UNIT",
+        "text_japanese": "個",
+        "text_english": "0"
+    },
+    {
+        "id": "ALL_RECEIVE",
+        "text_japanese": "全て受け取る",
+        "text_english": "0"
+    },
+    {
+        "id": "ITEM",
+        "text_japanese": "アイテム",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPMENT",
+        "text_japanese": "装備品",
+        "text_english": "0"
+    },
+    {
+        "id": "OTHER",
+        "text_japanese": "その他",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENT_RIGHT",
+        "text_japanese": "利用規約・権利表記",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENT_RIGHT_TAB_AGREEMENT",
+        "text_japanese": "利用規約",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENT_RIGHT_TAB_RIGHT",
+        "text_japanese": "権利表記",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENT_GUIDELINE_TAB_AGREEMENT",
+        "text_japanese": "利用規約",
+        "text_english": "0"
+    },
+    {
+        "id": "AGREEMENT_GUIDELINE_TAB_GUIDELINE",
+        "text_japanese": "ガイドライン",
+        "text_english": "0"
+    },
+    {
+        "id": "CONTENT_RELEASE_BUTTON",
+        "text_japanese": "今すぐ行く",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_CHARACTER_TITLE",
+        "text_japanese": "装備可能なキャラクター",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_TITLE_DETAIL",
+        "text_japanese": "装備品詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_TITLE_COMPLETE_MAKE",
+        "text_japanese": "製作完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_TITLE_COMPLETE_UPGRADE",
+        "text_japanese": "強化完了",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_TITLE_CONFIRM_MAKE",
+        "text_japanese": "製作確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_TITLE_CONFIRM_UPGRADE",
+        "text_japanese": "装備強化確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EQUIPDETAILDIALOG_CONFIRM_MESSAGE",
+        "text_japanese": "<0>を製作しますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_CHARA",
+        "text_japanese": "キャラ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_STORY",
+        "text_japanese": "ストーリー",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_HOME",
+        "text_japanese": "ホーム",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_GACHA",
+        "text_japanese": "ガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_PATYPLANNING",
+        "text_japanese": "編成",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_INTERACTION",
+        "text_japanese": "キャラ交流",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_BLACKSMITH",
+        "text_japanese": "鍛治",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_QUEST",
+        "text_japanese": "クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_QUEST_AREA",
+        "text_japanese": "クエスト<0>章",
+        "text_english": "0"
+    },
+    {
+        "id": "COMMON_BATTLE_ARENA",
+        "text_japanese": "バトルアリーナ",
+        "text_english": "0"
+    },
+    {
+        "id": "OPEN_DETAIL_BY_LONGTAP",
+        "text_japanese": "※長押しで詳細表示します。",
+        "text_english": "0"
+    },
+    {
+        "id": "DAILYCHECK_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "DAILYCHECK_MSG",
+        "text_japanese": "日付が変わりました。\\nタイトルへ戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_UNLOCK_MESSAGE",
+        "text_japanese": "ランク <0>\\nで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGIN_BONUS_DATE",
+        "text_japanese": "開催日時：<0> 〜 <1>",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGIN_BONUS_DATE_FORMAT",
+        "text_japanese": "MM/dd HH:mm",
+        "text_english": "0"
+    },
+    {
+        "id": "ITEM_GET_WINDOW_MESSAGE",
+        "text_japanese": "<0><color=#e4006e>x<1></color>を獲得しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "NEWMASTER_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "NEWMASTER_MSG",
+        "text_japanese": "新しいデータがあります。\\nタイトルへ戻ります。",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_END",
+        "text_japanese": "冒険スタート！",
+        "text_english": "0"
+    },
+    {
+        "id": "APP_QUIT_CONFIRM_DIALOG_TITLE",
+        "text_japanese": "確認",
+        "text_english": "0"
+    },
+    {
+        "id": "APP_QUIT_CONFIRM_DIALOG_MESSAGE",
+        "text_japanese": "ゲームを終了しますか？",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_STAGE_INFO_TITLE",
+        "text_japanese": "クリア報酬詳細",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_STAGE_INFO_MAIN_MISSION",
+        "text_japanese": "敵の全滅",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_STAGE_INFO_SUB1_MISSION",
+        "text_japanese": "バトル中に戦闘不能が2人未満",
+        "text_english": "0"
+    },
+    {
+        "id": "BATTLE_RESUME_STAGE_INFO_SUB2_MISSION",
+        "text_japanese": "30秒以内にクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "STORE_REVIEW_DIALOG_TITLE",
+        "text_japanese": "レビューのお願い",
+        "text_english": "0"
+    },
+    {
+        "id": "STORE_REVIEW_DIALOG_MESSAGE",
+        "text_japanese": "ご利用ありがとうございます！\\nレビューを書いて応援していただけると\\n開発者一同励みになります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STORE_REVIEW_BUTTON",
+        "text_japanese": "応援する",
+        "text_english": "0"
+    },
+    {
+        "id": "STORE_REVIEW_LATER_BUTTON",
+        "text_japanese": "あとで",
+        "text_english": "0"
+    },
+    {
+        "id": "STORE_REVIEW_DONOT_BUTTON",
+        "text_japanese": "評価しない",
+        "text_english": "0"
+    },
+    {
+        "id": "COSTUME_GET_INFO",
+        "text_japanese": "交流画面で設定できます",
+        "text_english": "0"
+    },
+    {
+        "id": "BACKGROUND_GET_INFO",
+        "text_japanese": "交流画面で設定するとホーム画面の背景が変更できます",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_CAN_NOT_SKIP",
+        "text_japanese": "このクエストは\\nスキップチケットを使用できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_HARD_TAB_1",
+        "text_japanese": "HARD",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_HARD_TAB_2",
+        "text_japanese": "SPECIAL",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BATTLEQUEST_BOSS_UNLOCK_MESSAGE",
+        "text_japanese": "メインクエストで\\nボス挑戦券\\n獲得で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_BOSS_CHALLENGE_TICKET",
+        "text_japanese": "挑戦券",
+        "text_english": "0"
+    },
+    {
+        "id": "SKIP_TICKET_CONFIRM_DIALOG_TITLE",
+        "text_japanese": "スキップチケット使用確認",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_QUEST",
+        "text_japanese": "クエスト <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_BOSS",
+        "text_japanese": "ボス <0>",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_1",
+        "text_japanese": "ボス「<0>」撃退 &\\nクエスト「<1>」\\nクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_2",
+        "text_japanese": "「<0>」&「<1>」\\nクリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_3",
+        "text_japanese": "「<0>」撃退で解放",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENTQUEST_RELEASE_STAGE_4",
+        "text_japanese": "「<0>」クリアで解放",
+        "text_english": "0"
+    },
+    {
+        "id": "AGE_CHECK_DIALOG_OK_BUTTON",
+        "text_japanese": "入力する",
+        "text_english": "0"
+    },
+    {
+        "id": "LOADING_VIEW_PROGRESS_DOWNLOAD_TEXT",
+        "text_japanese": "データダウンロード中",
+        "text_english": "0"
+    },
+    {
+        "id": "LOADING_VIEW_PROGRESS_LOAD_TEXT",
+        "text_japanese": "データロード中",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARACARDDETAIL_MAX_STATUS",
+        "text_japanese": "※最大まで育成した時の内容です",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_DOWNLOAD_TITLE",
+        "text_japanese": "データダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "TUTORIAL_DOWNLOAD_MSG",
+        "text_japanese": "データをダウンロードします。\\nダウンロードサイズが 50MBを超える場合、\\n Wi-Fi環境でのダウンロードを推奨します。",
+        "text_english": "0"
+    },
+    {
+        "id": "NON_VOICE_DOWNLOAD",
+        "text_japanese": "ボイスなし\\n<size=28>(<0>)</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "VOICE_DOWNLOAD",
+        "text_japanese": "ボイスあり\\n<size=28>(<0>)</size>",
+        "text_english": "0"
+    },
+    {
+        "id": "LUCKY_BOX_ALL_RECEICED_TITLE",
+        "text_japanese": "受け取り完了",
+        "text_english": "0"
+    },
+    {
+        "id": "LUCKY_BOX_ALL_RECEICED_MSG",
+        "text_japanese": "全ての報酬を受け取りました。\\n翌日以降ショップで継続購入することで\\n期間の延長ができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "LUCKY_BOX_DAYS",
+        "text_japanese": "<0>日目",
+        "text_english": "0"
+    },
+    {
+        "id": "AGE_CHECK_PRICE_LIMIT",
+        "text_japanese": "<0>円まで",
+        "text_english": "0"
+    },
+    {
+        "id": "ANDROID_DEV_MODE_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "ANDROID_DEV_MODE_MSG",
+        "text_japanese": "開発者モードでは起動できません。",
+        "text_english": "0"
+    },
+    {
+        "id": "MASTER_DECODE_ERROR_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "MASTER_DECODE_ERROR_MSG",
+        "text_japanese": "データロードに失敗しました。",
+        "text_english": "0"
+    },
+    {
+        "id": "OPEN_URL_BODY",
+        "text_japanese": "他のアプリに移動します。\\nよろしいですか？",
+        "text_english": "0"
+    },
+    {
+        "id": "OPEN_URL_TITLE",
+        "text_japanese": "移動確認",
+        "text_english": "0"
+    },
+    {
+        "id": "GOTO_TITLE_WITH_STATUS_CODE_TITLE",
+        "text_japanese": "エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOAD_ERROR_TITLE",
+        "text_japanese": "データダウンロード",
+        "text_english": "0"
+    },
+    {
+        "id": "DOWNLOAD_ERROR_MSG",
+        "text_japanese": "データをダウンロードします。\\n（約 <0>）\\n\\n<color=#e4006e>※端末容量が不足しています。\\n空き容量を増やしてから、再度お試しください。</color>",
+        "text_english": "0"
+    },
+    {
+        "id": "NECESSARY_AVAILABLE_STORAGE_SIZE_ERROR_TITLE",
+        "text_japanese": "空き容量不足エラー",
+        "text_english": "0"
+    },
+    {
+        "id": "NECESSARY_AVAILABLE_STORAGE_SIZE_ERROR_MSG",
+        "text_japanese": "ゲームを開始するには、\\n約 <0>の空き容量が必要になります。\\n\\n空き容量を確保してから、再度お試しください。",
+        "text_english": "0"
+    },
+    {
+        "id": "PREFERABLE_AVAILABLE_STORAGE_SIZE_ALERT_TITLE",
+        "text_japanese": "空き容量不足の警告",
+        "text_english": "0"
+    },
+    {
+        "id": "PREFERABLE_AVAILABLE_STORAGE_SIZE_ALERT_MSG",
+        "text_japanese": "ゲームの進行には、\\n約 <0>の空き容量が必要になります。\\n\\n空き容量が不足する場合、\\n正常に進行できなくなる可能性があります。",
+        "text_english": "0"
+    }
+]

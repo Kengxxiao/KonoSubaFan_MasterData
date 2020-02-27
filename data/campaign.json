@@ -1,0 +1,36 @@
+[
+    {
+        "id": "10000",
+        "priority": "0",
+        "type": "10",
+        "quest_type": "2",
+        "event_id": "0",
+        "quest_difficulty": "0",
+        "boss_flag": "0",
+        "quest_area": "7_8_9_10_11_12_13_14_15",
+        "quest_stage": "0",
+        "start": "2020/3/6 0:00",
+        "end": "2020/3/10 0:00",
+        "rank_start": "0",
+        "rank_end": "0",
+        "name_text": "BETWEEN_EVENT_10",
+        "description_text": "BETWEEN_EVENT_10000_DESCRIPTION"
+    },
+    {
+        "id": "10001",
+        "priority": "0",
+        "type": "10",
+        "quest_type": "1",
+        "event_id": "0",
+        "quest_difficulty": "2",
+        "boss_flag": "0",
+        "quest_area": "0",
+        "quest_stage": "0",
+        "start": "2020/3/13 0:00",
+        "end": "2020/3/17 0:00",
+        "rank_start": "0",
+        "rank_end": "0",
+        "name_text": "BETWEEN_EVENT_10",
+        "description_text": "BETWEEN_EVENT_10001_DESCRIPTION"
+    }
+]

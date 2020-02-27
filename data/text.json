@@ -1,0 +1,5627 @@
+[
+    {
+        "id": "TEXT_SHOP_1",
+        "text_japanese": "クオーツ購入",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_2",
+        "text_japanese": "エリス購入",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_3",
+        "text_japanese": "パック販売所",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_4",
+        "text_japanese": "スタミナ回復",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_5",
+        "text_japanese": "スキップチケット購入",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_6",
+        "text_japanese": "所持クオーツ確認",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_11001",
+        "text_japanese": "ウェルカムお得パック",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_11002",
+        "text_japanese": "育成支援パック",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_11003",
+        "text_japanese": "スタートダッシュパック",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_11004",
+        "text_japanese": "プレミアムビッグパック",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_13000",
+        "text_japanese": "毎週お得パック",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_12000",
+        "text_japanese": "毎月お得クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_12100",
+        "text_japanese": "女神の恩恵",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_12101",
+        "text_japanese": "女神の恩恵(毎日獲得分)",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10001",
+        "text_japanese": "110クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10003",
+        "text_japanese": "350クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10008",
+        "text_japanese": "950クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10015",
+        "text_japanese": "1800クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10025",
+        "text_japanese": "3060クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10040",
+        "text_japanese": "5000クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_10056",
+        "text_japanese": "10500クオーツ",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_SHOP_ITEM_11000",
+        "text_japanese": "スタミナ回復",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE1",
+        "text_japanese": "冒険者メダル交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE2",
+        "text_japanese": "女神メダル交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE3",
+        "text_japanese": "アリーナメダル交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE100_ITEM0",
+        "text_japanese": "スキルポーション×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE100_ITEM1",
+        "text_japanese": "スキルポーションミニ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE100_ITEM2",
+        "text_japanese": "スキップチケット×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE100_ITEM3",
+        "text_japanese": "★4確定\\nガチャチケット×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM0",
+        "text_japanese": "ちゅんちゅん丸の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM1",
+        "text_japanese": "黒き刃の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM2",
+        "text_japanese": "輝く祈杖の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM3",
+        "text_japanese": "叡智の魔杖の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM4",
+        "text_japanese": "穿つ魔槍の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM50",
+        "text_japanese": "★4確定\\nガチャチケット×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM51",
+        "text_japanese": "★3以上確定\\nガチャチケット×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM52",
+        "text_japanese": "スキルポーション×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM53",
+        "text_japanese": "強化石(特大)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE101_ITEM54",
+        "text_japanese": "強化石(特大)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM0",
+        "text_japanese": "蠱惑剣の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM1",
+        "text_japanese": "必殺刃の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM2",
+        "text_japanese": "祝福架の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM3",
+        "text_japanese": "必殺杖の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM4",
+        "text_japanese": "必殺槍の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM30",
+        "text_japanese": "魅惑剣の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM31",
+        "text_japanese": "一撃刃の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM32",
+        "text_japanese": "治癒架の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM33",
+        "text_japanese": "一撃杖の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM34",
+        "text_japanese": "一撃槍の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM40",
+        "text_japanese": "破毒金首飾の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM41",
+        "text_japanese": "破闇金首飾の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM42",
+        "text_japanese": "破縛金首輪の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM43",
+        "text_japanese": "破封金首輪の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM50",
+        "text_japanese": "強化石(大)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM51",
+        "text_japanese": "強化石(中)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM52",
+        "text_japanese": "強化石(小)×5",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM53",
+        "text_japanese": "金の聖杯×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM54",
+        "text_japanese": "銀の聖杯×3",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM60",
+        "text_japanese": "［はじまり］カズマ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM61",
+        "text_japanese": "［はじまり］アクア×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM62",
+        "text_japanese": "［はじまり］めぐみん×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM63",
+        "text_japanese": "［はじまり］ダクネス×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM64",
+        "text_japanese": "［はじまり］クリス×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM65",
+        "text_japanese": "［はじまり］ウィズ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM66",
+        "text_japanese": "［はじまり］ゆんゆん×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM67",
+        "text_japanese": "［はじまり］アイリス×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM68",
+        "text_japanese": "［はじまり］セシリー×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM69",
+        "text_japanese": "［はじまり］あるえ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM70",
+        "text_japanese": "［はじまり］ミツルギ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM71",
+        "text_japanese": "［はじまり］ダスト×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM72",
+        "text_japanese": "［はじまり］リーン×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM73",
+        "text_japanese": "［はじまり］リア×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM74",
+        "text_japanese": "［はじまり］シエロ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM75",
+        "text_japanese": "［はじまり］エーリカ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM76",
+        "text_japanese": "［はじまり］メリッサ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM77",
+        "text_japanese": "［はじまり］ミーア×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE102_ITEM78",
+        "text_japanese": "［はじまり］エイミー×1",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_NOTICE_102",
+        "text_japanese": "必殺スキル「エクスプロージョン」使用後は戦闘不能になります。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_NOTICE_103",
+        "text_japanese": "ダクネスは攻撃の命中率が極端に低くなっています。",
+        "text_english": "0"
+    },
+    {
+        "id": "CHARA_NOTICE_105",
+        "text_japanese": "ウィズは主な回復スキルでは回復せず、ダメージを受けます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_JOB_1",
+        "text_japanese": "この酒場に手伝いを！",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_JOB_2",
+        "text_japanese": "この廃城に清潔感を！",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_JOB_4",
+        "text_japanese": "この親方に弟子入りを！",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_ALLCLEAR",
+        "text_japanese": "敵の全滅",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_KNOCKOUT_2COUNT",
+        "text_japanese": "バトル中に戦闘不能が2人未満",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_CLEAR_20SEC",
+        "text_japanese": "20秒以内にクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_CLEAR_30SEC",
+        "text_japanese": "30秒以内にクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_CLEAR_45SEC",
+        "text_japanese": "45秒以内にクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "CROWN_CLEAR_60SEC",
+        "text_japanese": "60秒以内にクリア",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210001",
+        "text_japanese": "メインクエスト1-1(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210002",
+        "text_japanese": "メインクエスト1-2(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210003",
+        "text_japanese": "メインクエスト1-3(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210004",
+        "text_japanese": "メインクエスト1-4(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210005",
+        "text_japanese": "メインクエスト1-5(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210006",
+        "text_japanese": "メインクエスト1-6(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210007",
+        "text_japanese": "メインクエスト1-7(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210008",
+        "text_japanese": "メインクエスト1-8(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210009",
+        "text_japanese": "メインクエスト1-9(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210010",
+        "text_japanese": "メインクエスト1-10(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210011",
+        "text_japanese": "メインクエスト1-11(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210012",
+        "text_japanese": "メインクエスト1-12(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210013",
+        "text_japanese": "メインクエスト2-1(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210014",
+        "text_japanese": "メインクエスト2-2(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210015",
+        "text_japanese": "メインクエスト2-3(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210016",
+        "text_japanese": "メインクエスト2-4(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210017",
+        "text_japanese": "メインクエスト2-5(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210018",
+        "text_japanese": "メインクエスト2-6(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210019",
+        "text_japanese": "メインクエスト2-7(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210020",
+        "text_japanese": "メインクエスト2-8(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210021",
+        "text_japanese": "メインクエスト2-9(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210022",
+        "text_japanese": "メインクエスト2-10(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210023",
+        "text_japanese": "メインクエスト2-11(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210024",
+        "text_japanese": "メインクエスト2-12(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210025",
+        "text_japanese": "メインクエスト2-13(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210026",
+        "text_japanese": "メインクエスト2-14(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210027",
+        "text_japanese": "メインクエスト2-15(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210028",
+        "text_japanese": "メインクエスト2-16(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210029",
+        "text_japanese": "メインクエスト3-1(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210030",
+        "text_japanese": "メインクエスト3-2(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210031",
+        "text_japanese": "メインクエスト3-3(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210032",
+        "text_japanese": "メインクエスト3-4(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210033",
+        "text_japanese": "メインクエスト3-5(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210034",
+        "text_japanese": "メインクエスト3-6(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210035",
+        "text_japanese": "メインクエスト3-7(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210036",
+        "text_japanese": "メインクエスト3-8(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210037",
+        "text_japanese": "メインクエスト3-9(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210038",
+        "text_japanese": "メインクエスト3-10(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210039",
+        "text_japanese": "メインクエスト3-11(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210040",
+        "text_japanese": "メインクエスト3-12(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210041",
+        "text_japanese": "メインクエスト3-13(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210042",
+        "text_japanese": "メインクエスト3-14(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210043",
+        "text_japanese": "メインクエスト3-15(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210044",
+        "text_japanese": "メインクエスト3-16(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210045",
+        "text_japanese": "メインクエスト3-17(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210046",
+        "text_japanese": "メインクエスト3-18(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210047",
+        "text_japanese": "メインクエスト3-19(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210048",
+        "text_japanese": "メインクエスト3-20(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210049",
+        "text_japanese": "メインクエスト4-1(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210050",
+        "text_japanese": "メインクエスト4-2(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210051",
+        "text_japanese": "メインクエスト4-3(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210052",
+        "text_japanese": "メインクエスト4-4(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210053",
+        "text_japanese": "メインクエスト4-5(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210054",
+        "text_japanese": "メインクエスト4-6(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210055",
+        "text_japanese": "メインクエスト4-7(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210056",
+        "text_japanese": "メインクエスト4-8(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210057",
+        "text_japanese": "メインクエスト4-9(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210058",
+        "text_japanese": "メインクエスト4-10(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210059",
+        "text_japanese": "メインクエスト4-11(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210060",
+        "text_japanese": "メインクエスト4-12(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210061",
+        "text_japanese": "メインクエスト4-13(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210062",
+        "text_japanese": "メインクエスト4-14(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210063",
+        "text_japanese": "メインクエスト4-15(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210064",
+        "text_japanese": "メインクエスト4-16(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210065",
+        "text_japanese": "メインクエスト4-17(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210066",
+        "text_japanese": "メインクエスト4-18(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210067",
+        "text_japanese": "メインクエスト4-19(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210068",
+        "text_japanese": "メインクエスト4-20(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210069",
+        "text_japanese": "メインクエスト5-1(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210070",
+        "text_japanese": "メインクエスト5-2(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210071",
+        "text_japanese": "メインクエスト5-3(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210072",
+        "text_japanese": "メインクエスト5-4(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210073",
+        "text_japanese": "メインクエスト5-5(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210074",
+        "text_japanese": "メインクエスト5-6(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210075",
+        "text_japanese": "メインクエスト5-7(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210076",
+        "text_japanese": "メインクエスト5-8(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210077",
+        "text_japanese": "メインクエスト5-9(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210078",
+        "text_japanese": "メインクエスト5-10(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210079",
+        "text_japanese": "メインクエスト5-11(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210080",
+        "text_japanese": "メインクエスト5-12(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210081",
+        "text_japanese": "メインクエスト5-13(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210082",
+        "text_japanese": "メインクエスト5-14(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210083",
+        "text_japanese": "メインクエスト5-15(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210084",
+        "text_japanese": "メインクエスト5-16(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210085",
+        "text_japanese": "メインクエスト5-17(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210086",
+        "text_japanese": "メインクエスト5-18(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210087",
+        "text_japanese": "メインクエスト5-19(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11210088",
+        "text_japanese": "メインクエスト5-20(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11220001",
+        "text_japanese": "メインクエスト1章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11220002",
+        "text_japanese": "メインクエスト2章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11220003",
+        "text_japanese": "メインクエスト3章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11220004",
+        "text_japanese": "メインクエスト4章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11220005",
+        "text_japanese": "メインクエスト5章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11230001",
+        "text_japanese": "メインクエスト1章(NORMAL)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11230002",
+        "text_japanese": "メインクエスト2章(NORMAL)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11230003",
+        "text_japanese": "メインクエスト3章(NORMAL)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11230004",
+        "text_japanese": "メインクエスト4章(NORMAL)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11230005",
+        "text_japanese": "メインクエスト5章(NORMAL)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311001",
+        "text_japanese": "メインクエスト1-1(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311002",
+        "text_japanese": "メインクエスト1-2(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311003",
+        "text_japanese": "メインクエスト1-3(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311004",
+        "text_japanese": "メインクエスト1-4(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311005",
+        "text_japanese": "メインクエスト2-1(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311006",
+        "text_japanese": "メインクエスト2-2(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311007",
+        "text_japanese": "メインクエスト2-3(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311008",
+        "text_japanese": "メインクエスト2-4(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311009",
+        "text_japanese": "メインクエスト3-1(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311010",
+        "text_japanese": "メインクエスト3-2(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311011",
+        "text_japanese": "メインクエスト3-3(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311012",
+        "text_japanese": "メインクエスト3-4(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311013",
+        "text_japanese": "メインクエスト4-1(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311014",
+        "text_japanese": "メインクエスト4-2(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311015",
+        "text_japanese": "メインクエスト4-3(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311016",
+        "text_japanese": "メインクエスト4-4(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311017",
+        "text_japanese": "メインクエスト5-1(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311018",
+        "text_japanese": "メインクエスト5-2(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311019",
+        "text_japanese": "メインクエスト5-3(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11311020",
+        "text_japanese": "メインクエスト5-4(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11320001",
+        "text_japanese": "メインクエスト1章(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11320002",
+        "text_japanese": "メインクエスト2章(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11320003",
+        "text_japanese": "メインクエスト3章(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11320004",
+        "text_japanese": "メインクエスト4章(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11320005",
+        "text_japanese": "メインクエスト5章(HARD)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11330001",
+        "text_japanese": "メインクエスト1章(HARD)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11330002",
+        "text_japanese": "メインクエスト2章(HARD)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11330003",
+        "text_japanese": "メインクエスト3章(HARD)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11330004",
+        "text_japanese": "メインクエスト4章(HARD)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11330005",
+        "text_japanese": "メインクエスト5章(HARD)を完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020030",
+        "text_japanese": "クラウンを合計30個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020060",
+        "text_japanese": "クラウンを合計60個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020090",
+        "text_japanese": "クラウンを合計90個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020120",
+        "text_japanese": "クラウンを合計120個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020150",
+        "text_japanese": "クラウンを合計150個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020180",
+        "text_japanese": "クラウンを合計180個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020210",
+        "text_japanese": "クラウンを合計210個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020240",
+        "text_japanese": "クラウンを合計240個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020270",
+        "text_japanese": "クラウンを合計270個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020300",
+        "text_japanese": "クラウンを合計300個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020330",
+        "text_japanese": "クラウンを合計330個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020360",
+        "text_japanese": "クラウンを合計360個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020390",
+        "text_japanese": "クラウンを合計390個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020420",
+        "text_japanese": "クラウンを合計420個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020450",
+        "text_japanese": "クラウンを合計450個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020480",
+        "text_japanese": "クラウンを合計480個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020510",
+        "text_japanese": "クラウンを合計510個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020540",
+        "text_japanese": "クラウンを合計540個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020570",
+        "text_japanese": "クラウンを合計570個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020600",
+        "text_japanese": "クラウンを合計600個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020630",
+        "text_japanese": "クラウンを合計630個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_11020660",
+        "text_japanese": "クラウンを合計660個獲得しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12000520",
+        "text_japanese": "メンバー5人をLv.20にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12000530",
+        "text_japanese": "メンバー5人をLv.30にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12000540",
+        "text_japanese": "メンバー5人をLv.40にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12000550",
+        "text_japanese": "メンバー5人をLv.50にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12000560",
+        "text_japanese": "メンバー5人をLv.60にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12010502",
+        "text_japanese": "メンバー5人を限界突破2にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12010503",
+        "text_japanese": "メンバー5人を限界突破3にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12010504",
+        "text_japanese": "メンバー5人を限界突破4にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12010505",
+        "text_japanese": "メンバー5人を限界突破5にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12020502",
+        "text_japanese": "メンバー5人のスキル1つをLv.2にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12020503",
+        "text_japanese": "メンバー5人のスキル1つをLv.3にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12020504",
+        "text_japanese": "メンバー5人のスキル1つをLv.4にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12020505",
+        "text_japanese": "メンバー5人のスキル1つをLv.5にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600505",
+        "text_japanese": "キャラクター5人を絆ランク5にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600510",
+        "text_japanese": "キャラクター5人を絆ランク10にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600515",
+        "text_japanese": "キャラクター5人を絆ランク15にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600520",
+        "text_japanese": "キャラクター5人を絆ランク20にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600525",
+        "text_japanese": "キャラクター5人を絆ランク25にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_12600530",
+        "text_japanese": "キャラクター5人を絆ランク30にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13011001",
+        "text_japanese": "★1の武器を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13011002",
+        "text_japanese": "★1の武器を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13011003",
+        "text_japanese": "★1の武器を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13011005",
+        "text_japanese": "★1の武器を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13011010",
+        "text_japanese": "★1の武器を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13012001",
+        "text_japanese": "★2の武器を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13012002",
+        "text_japanese": "★2の武器を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13012003",
+        "text_japanese": "★2の武器を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13012005",
+        "text_japanese": "★2の武器を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13012010",
+        "text_japanese": "★2の武器を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13013001",
+        "text_japanese": "★3の武器を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13013002",
+        "text_japanese": "★3の武器を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13013003",
+        "text_japanese": "★3の武器を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13013005",
+        "text_japanese": "★3の武器を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13013010",
+        "text_japanese": "★3の武器を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13014001",
+        "text_japanese": "★4の武器を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13014002",
+        "text_japanese": "★4の武器を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13014003",
+        "text_japanese": "★4の武器を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13014005",
+        "text_japanese": "★4の武器を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13014010",
+        "text_japanese": "★4の武器を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13111001",
+        "text_japanese": "★1の装飾品を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13111002",
+        "text_japanese": "★1の装飾品を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13111003",
+        "text_japanese": "★1の装飾品を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13111005",
+        "text_japanese": "★1の装飾品を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13111010",
+        "text_japanese": "★1の装飾品を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13112001",
+        "text_japanese": "★2の装飾品を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13112002",
+        "text_japanese": "★2の装飾品を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13112003",
+        "text_japanese": "★2の装飾品を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13112005",
+        "text_japanese": "★2の装飾品を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13112010",
+        "text_japanese": "★2の装飾品を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13113001",
+        "text_japanese": "★3の装飾品を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13113002",
+        "text_japanese": "★3の装飾品を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13113003",
+        "text_japanese": "★3の装飾品を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13113005",
+        "text_japanese": "★3の装飾品を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13113010",
+        "text_japanese": "★3の装飾品を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13114001",
+        "text_japanese": "★4の装飾品を1個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13114002",
+        "text_japanese": "★4の装飾品を2個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13114003",
+        "text_japanese": "★4の装飾品を3個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13114005",
+        "text_japanese": "★4の装飾品を5個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13114010",
+        "text_japanese": "★4の装飾品を10個製作しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500012",
+        "text_japanese": "1個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13501003",
+        "text_japanese": "1個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13501004",
+        "text_japanese": "1個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13501005",
+        "text_japanese": "1個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500022",
+        "text_japanese": "2個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500023",
+        "text_japanese": "2個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500024",
+        "text_japanese": "2個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500025",
+        "text_japanese": "2個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500032",
+        "text_japanese": "3個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500033",
+        "text_japanese": "3個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500034",
+        "text_japanese": "3個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500035",
+        "text_japanese": "3個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500052",
+        "text_japanese": "5個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500053",
+        "text_japanese": "5個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500054",
+        "text_japanese": "5個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500055",
+        "text_japanese": "5個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500102",
+        "text_japanese": "10個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500103",
+        "text_japanese": "10個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500104",
+        "text_japanese": "10個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500105",
+        "text_japanese": "10個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500152",
+        "text_japanese": "15個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500153",
+        "text_japanese": "15個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500154",
+        "text_japanese": "15個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500155",
+        "text_japanese": "15個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500202",
+        "text_japanese": "20個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500203",
+        "text_japanese": "20個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500204",
+        "text_japanese": "20個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500205",
+        "text_japanese": "20個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500252",
+        "text_japanese": "25個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500253",
+        "text_japanese": "25個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500254",
+        "text_japanese": "25個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500255",
+        "text_japanese": "25個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500302",
+        "text_japanese": "30個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500303",
+        "text_japanese": "30個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500304",
+        "text_japanese": "30個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500305",
+        "text_japanese": "30個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500352",
+        "text_japanese": "35個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500353",
+        "text_japanese": "35個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500354",
+        "text_japanese": "35個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500355",
+        "text_japanese": "35個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500402",
+        "text_japanese": "40個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500403",
+        "text_japanese": "40個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500404",
+        "text_japanese": "40個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500405",
+        "text_japanese": "40個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500452",
+        "text_japanese": "45個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500453",
+        "text_japanese": "45個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500454",
+        "text_japanese": "45個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500455",
+        "text_japanese": "45個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500502",
+        "text_japanese": "50個の武器を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500503",
+        "text_japanese": "50個の武器を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500504",
+        "text_japanese": "50個の武器を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13500505",
+        "text_japanese": "50個の武器を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600012",
+        "text_japanese": "1個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600013",
+        "text_japanese": "1個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600014",
+        "text_japanese": "1個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600015",
+        "text_japanese": "1個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600022",
+        "text_japanese": "2個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600023",
+        "text_japanese": "2個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600024",
+        "text_japanese": "2個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600025",
+        "text_japanese": "2個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600032",
+        "text_japanese": "3個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600033",
+        "text_japanese": "3個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600034",
+        "text_japanese": "3個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600035",
+        "text_japanese": "3個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600052",
+        "text_japanese": "5個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600053",
+        "text_japanese": "5個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600054",
+        "text_japanese": "5個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600055",
+        "text_japanese": "5個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600102",
+        "text_japanese": "10個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600103",
+        "text_japanese": "10個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600104",
+        "text_japanese": "10個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600105",
+        "text_japanese": "10個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600152",
+        "text_japanese": "15個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600153",
+        "text_japanese": "15個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600154",
+        "text_japanese": "15個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600155",
+        "text_japanese": "15個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600202",
+        "text_japanese": "20個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600203",
+        "text_japanese": "20個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600204",
+        "text_japanese": "20個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600205",
+        "text_japanese": "20個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600252",
+        "text_japanese": "25個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600253",
+        "text_japanese": "25個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600254",
+        "text_japanese": "25個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600255",
+        "text_japanese": "25個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600302",
+        "text_japanese": "30個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600303",
+        "text_japanese": "30個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600304",
+        "text_japanese": "30個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600305",
+        "text_japanese": "30個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600352",
+        "text_japanese": "35個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600353",
+        "text_japanese": "35個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600354",
+        "text_japanese": "35個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600355",
+        "text_japanese": "35個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600402",
+        "text_japanese": "40個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600403",
+        "text_japanese": "40個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600404",
+        "text_japanese": "40個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600405",
+        "text_japanese": "40個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600452",
+        "text_japanese": "45個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600453",
+        "text_japanese": "45個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600454",
+        "text_japanese": "45個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600455",
+        "text_japanese": "45個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600502",
+        "text_japanese": "50個の装飾品を装備ランク2に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600503",
+        "text_japanese": "50個の装飾品を装備ランク3に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600504",
+        "text_japanese": "50個の装飾品を装備ランク4に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_13600505",
+        "text_japanese": "50個の装飾品を装備ランク5に強化しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100002",
+        "text_japanese": "プレイヤーランクを2にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100003",
+        "text_japanese": "プレイヤーランクを3にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100004",
+        "text_japanese": "プレイヤーランクを4にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100005",
+        "text_japanese": "プレイヤーランクを5にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100006",
+        "text_japanese": "プレイヤーランクを6にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100007",
+        "text_japanese": "プレイヤーランクを7にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100008",
+        "text_japanese": "プレイヤーランクを8にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100009",
+        "text_japanese": "プレイヤーランクを9にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100010",
+        "text_japanese": "プレイヤーランクを10にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100011",
+        "text_japanese": "プレイヤーランクを11にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100012",
+        "text_japanese": "プレイヤーランクを12にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100013",
+        "text_japanese": "プレイヤーランクを13にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100014",
+        "text_japanese": "プレイヤーランクを14にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100015",
+        "text_japanese": "プレイヤーランクを15にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100016",
+        "text_japanese": "プレイヤーランクを16にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100017",
+        "text_japanese": "プレイヤーランクを17にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100018",
+        "text_japanese": "プレイヤーランクを18にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100019",
+        "text_japanese": "プレイヤーランクを19にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100020",
+        "text_japanese": "プレイヤーランクを20にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100021",
+        "text_japanese": "プレイヤーランクを21にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100022",
+        "text_japanese": "プレイヤーランクを22にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100023",
+        "text_japanese": "プレイヤーランクを23にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100024",
+        "text_japanese": "プレイヤーランクを24にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100025",
+        "text_japanese": "プレイヤーランクを25にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100026",
+        "text_japanese": "プレイヤーランクを26にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100027",
+        "text_japanese": "プレイヤーランクを27にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100028",
+        "text_japanese": "プレイヤーランクを28にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100029",
+        "text_japanese": "プレイヤーランクを29にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100030",
+        "text_japanese": "プレイヤーランクを30にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100031",
+        "text_japanese": "プレイヤーランクを31にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100032",
+        "text_japanese": "プレイヤーランクを32にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100033",
+        "text_japanese": "プレイヤーランクを33にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100034",
+        "text_japanese": "プレイヤーランクを34にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100035",
+        "text_japanese": "プレイヤーランクを35にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100036",
+        "text_japanese": "プレイヤーランクを36にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100037",
+        "text_japanese": "プレイヤーランクを37にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100038",
+        "text_japanese": "プレイヤーランクを38にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100039",
+        "text_japanese": "プレイヤーランクを39にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100040",
+        "text_japanese": "プレイヤーランクを40にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100041",
+        "text_japanese": "プレイヤーランクを41にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100042",
+        "text_japanese": "プレイヤーランクを42にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100043",
+        "text_japanese": "プレイヤーランクを43にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100044",
+        "text_japanese": "プレイヤーランクを44にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100045",
+        "text_japanese": "プレイヤーランクを45にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100046",
+        "text_japanese": "プレイヤーランクを46にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100047",
+        "text_japanese": "プレイヤーランクを47にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100048",
+        "text_japanese": "プレイヤーランクを48にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100049",
+        "text_japanese": "プレイヤーランクを49にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100050",
+        "text_japanese": "プレイヤーランクを50にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100051",
+        "text_japanese": "プレイヤーランクを51にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100052",
+        "text_japanese": "プレイヤーランクを52にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100053",
+        "text_japanese": "プレイヤーランクを53にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100054",
+        "text_japanese": "プレイヤーランクを54にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100055",
+        "text_japanese": "プレイヤーランクを55にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100056",
+        "text_japanese": "プレイヤーランクを56にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100057",
+        "text_japanese": "プレイヤーランクを57にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100058",
+        "text_japanese": "プレイヤーランクを58にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100059",
+        "text_japanese": "プレイヤーランクを59にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100060",
+        "text_japanese": "プレイヤーランクを60にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100061",
+        "text_japanese": "プレイヤーランクを61にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100062",
+        "text_japanese": "プレイヤーランクを62にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100063",
+        "text_japanese": "プレイヤーランクを63にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100064",
+        "text_japanese": "プレイヤーランクを64にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100065",
+        "text_japanese": "プレイヤーランクを65にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100066",
+        "text_japanese": "プレイヤーランクを66にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100067",
+        "text_japanese": "プレイヤーランクを67にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100068",
+        "text_japanese": "プレイヤーランクを68にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100069",
+        "text_japanese": "プレイヤーランクを69にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100070",
+        "text_japanese": "プレイヤーランクを70にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100071",
+        "text_japanese": "プレイヤーランクを71にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100072",
+        "text_japanese": "プレイヤーランクを72にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100073",
+        "text_japanese": "プレイヤーランクを73にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100074",
+        "text_japanese": "プレイヤーランクを74にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100075",
+        "text_japanese": "プレイヤーランクを75にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100076",
+        "text_japanese": "プレイヤーランクを76にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100077",
+        "text_japanese": "プレイヤーランクを77にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100078",
+        "text_japanese": "プレイヤーランクを78にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100079",
+        "text_japanese": "プレイヤーランクを79にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100080",
+        "text_japanese": "プレイヤーランクを80にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100081",
+        "text_japanese": "プレイヤーランクを81にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100082",
+        "text_japanese": "プレイヤーランクを82にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100083",
+        "text_japanese": "プレイヤーランクを83にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100084",
+        "text_japanese": "プレイヤーランクを84にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100085",
+        "text_japanese": "プレイヤーランクを85にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100086",
+        "text_japanese": "プレイヤーランクを86にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100087",
+        "text_japanese": "プレイヤーランクを87にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100088",
+        "text_japanese": "プレイヤーランクを88にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100089",
+        "text_japanese": "プレイヤーランクを89にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100090",
+        "text_japanese": "プレイヤーランクを90にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100091",
+        "text_japanese": "プレイヤーランクを91にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100092",
+        "text_japanese": "プレイヤーランクを92にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100093",
+        "text_japanese": "プレイヤーランクを93にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100094",
+        "text_japanese": "プレイヤーランクを94にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100095",
+        "text_japanese": "プレイヤーランクを95にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100096",
+        "text_japanese": "プレイヤーランクを96にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100097",
+        "text_japanese": "プレイヤーランクを97にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100098",
+        "text_japanese": "プレイヤーランクを98にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14100099",
+        "text_japanese": "プレイヤーランクを99にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_14320000",
+        "text_japanese": "データ連携の設定をしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_24000001",
+        "text_japanese": "11:00〜23:59の間に遊ぼう(「全てクリア」の対象外)",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_24000002",
+        "text_japanese": "17:00〜23:59の間に遊ぼう(「全てクリア」の対象外)",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_21100001",
+        "text_japanese": "メインかイベントのクエストを10回クリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_21300001",
+        "text_japanese": "メイン(HARD)かイベント(HARD、SPECIAL)を3回クリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_21400001",
+        "text_japanese": "フリークエストを2回クリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_25300001",
+        "text_japanese": "バイトの報酬を1回受け取ろう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_21600001",
+        "text_japanese": "バトルアリーナに1回挑戦しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_20020001",
+        "text_japanese": "デイリーミッションを全てクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_21600002",
+        "text_japanese": "バトルアリーナに3回挑戦しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_31220001",
+        "text_japanese": "メインクエスト1章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_31220002",
+        "text_japanese": "メインクエスト2章(NORMAL)をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_32000001",
+        "text_japanese": "メンバー1人をLv.10にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_32600001",
+        "text_japanese": "キャラクター1人の絆ランクを3にしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_35200001",
+        "text_japanese": "メインストーリー 1章6話を見よう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_35000001",
+        "text_japanese": "ガチャを1回引こう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_34330001",
+        "text_japanese": "ホーム左下のボタンから表示するキャラを設定しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_34010001",
+        "text_japanese": "2日目もログインしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_30030001",
+        "text_japanese": "初心者ミッションを全てクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_PUSH_1",
+        "text_japanese": "×3000\\nもらえる！",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGINBONUS_1",
+        "text_japanese": "初心者ログインボーナス",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGINBONUS_2",
+        "text_japanese": "通常ログボ",
+        "text_english": "0"
+    },
+    {
+        "id": "LOGINBONUS_3",
+        "text_japanese": "50万人突破記念ログインボーナス",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_GACHA_TABTEXT_1",
+        "text_japanese": "リリース記念",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_GACHA_TABTEXT_2",
+        "text_japanese": "スペシャル",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_GACHA_TABTEXT_3",
+        "text_japanese": "プレミアム",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_GACHA_TABTEXT_4",
+        "text_japanese": "50万DL記念",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_100001",
+        "text_japanese": "プレミアムガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_200001",
+        "text_japanese": "★3以上確定チケットガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_200011",
+        "text_japanese": "★4確定チケットガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_200012",
+        "text_japanese": "スタートダッシュガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_319111",
+        "text_japanese": "リリース記念ピックアップガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_NAME_410001",
+        "text_japanese": "50万人突破記念1人★4確定ガチャ",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_100001",
+        "text_japanese": "★2以上のメンバーが出現！\\n「10回引く」は1人★3以上確定！",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_200001",
+        "text_japanese": "★3以上確定ガチャチケットで引ける！\\n★3以上のメンバーが必ず出現！",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_200011",
+        "text_japanese": "★4確定ガチャチケットで引ける！\\n★4メンバーが必ず出現！",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_200012",
+        "text_japanese": "ゲーム開始から7日間限定！\\n1回限定で引ける1人★4確定ガチャ！",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_319111",
+        "text_japanese": "★4カズマ＆★4めぐみん提供割合UP\\n「10回引く」は1人★3以上確定！",
+        "text_english": "0"
+    },
+    {
+        "id": "GACHA_DESCRIPTION_410001",
+        "text_japanese": "祝50万人突破！\\n★4メンバーが必ず出現！",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE10",
+        "text_japanese": "メンバーセレクトチケット交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_GACHA_ITEM_11911100",
+        "text_japanese": "［ナイス爆裂!!］\\nめぐみん×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_GACHA_ITEM_11911101",
+        "text_japanese": "［引きこもり転生者］\\nカズマ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_10",
+        "text_japanese": "宝箱ドロップ2倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_11",
+        "text_japanese": "宝箱ドロップ3倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_20",
+        "text_japanese": "消費スタミナ0",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_21",
+        "text_japanese": "消費スタミナ1/2",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_30",
+        "text_japanese": "エリス獲得量2倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_31",
+        "text_japanese": "エリス獲得量3倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_40",
+        "text_japanese": "EXP獲得量1.5倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_41",
+        "text_japanese": "EXP獲得量2倍",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_10000_DESCRIPTION",
+        "text_japanese": "限定フリークエストの宝箱ドロップの内容が2倍にアップ",
+        "text_english": "0"
+    },
+    {
+        "id": "BETWEEN_EVENT_10001_DESCRIPTION",
+        "text_japanese": "メインクエスト（HARD）の宝箱ドロップの内容が2倍にアップ",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NAME_1",
+        "text_japanese": "メインクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NAME_2",
+        "text_japanese": "フリークエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NAME_3",
+        "text_japanese": "バトルアリーナ",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NAME_4",
+        "text_japanese": "バイト",
+        "text_english": "0"
+    },
+    {
+        "id": "QUEST_NAME_5",
+        "text_japanese": "イベント",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN1",
+        "text_japanese": "この新たなる仲間と冒険を！",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN2",
+        "text_japanese": "この癖のある踊り子達で商売を！",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN3",
+        "text_japanese": "この厳戒な金庫に侵入を！",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN4",
+        "text_japanese": "この獣人の2人と野菜売りを！",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN5",
+        "text_japanese": "この踊り子コンテストに出場を！",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN1_SHORT",
+        "text_japanese": "-",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN2_SHORT",
+        "text_japanese": "1",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN3_SHORT",
+        "text_japanese": "2",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN4_SHORT",
+        "text_japanese": "3",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_MAIN5_SHORT",
+        "text_japanese": "4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_1_N",
+        "text_japanese": "1章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_2_N",
+        "text_japanese": "1章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_3_N",
+        "text_japanese": "1章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_4_N",
+        "text_japanese": "1章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_5_N",
+        "text_japanese": "1章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_6_N",
+        "text_japanese": "1章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_7_N",
+        "text_japanese": "1章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_8_N",
+        "text_japanese": "1章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_9_N",
+        "text_japanese": "1章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_10_N",
+        "text_japanese": "1章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_11_N",
+        "text_japanese": "1章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_12_N",
+        "text_japanese": "1章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_1_N",
+        "text_japanese": "2章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_2_N",
+        "text_japanese": "2章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_3_N",
+        "text_japanese": "2章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_4_N",
+        "text_japanese": "2章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_5_N",
+        "text_japanese": "2章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_6_N",
+        "text_japanese": "2章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_7_N",
+        "text_japanese": "2章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_8_N",
+        "text_japanese": "2章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_9_N",
+        "text_japanese": "2章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_10_N",
+        "text_japanese": "2章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_11_N",
+        "text_japanese": "2章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_12_N",
+        "text_japanese": "2章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_13_N",
+        "text_japanese": "2章-13",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_14_N",
+        "text_japanese": "2章-14",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_15_N",
+        "text_japanese": "2章-15",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_16_N",
+        "text_japanese": "2章-16",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_1_N",
+        "text_japanese": "3章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_2_N",
+        "text_japanese": "3章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_3_N",
+        "text_japanese": "3章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_4_N",
+        "text_japanese": "3章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_5_N",
+        "text_japanese": "3章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_6_N",
+        "text_japanese": "3章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_7_N",
+        "text_japanese": "3章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_8_N",
+        "text_japanese": "3章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_9_N",
+        "text_japanese": "3章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_10_N",
+        "text_japanese": "3章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_11_N",
+        "text_japanese": "3章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_12_N",
+        "text_japanese": "3章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_13_N",
+        "text_japanese": "3章-13",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_14_N",
+        "text_japanese": "3章-14",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_15_N",
+        "text_japanese": "3章-15",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_16_N",
+        "text_japanese": "3章-16",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_17_N",
+        "text_japanese": "3章-17",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_18_N",
+        "text_japanese": "3章-18",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_19_N",
+        "text_japanese": "3章-19",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_20_N",
+        "text_japanese": "3章-20",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_1_N",
+        "text_japanese": "4章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_2_N",
+        "text_japanese": "4章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_3_N",
+        "text_japanese": "4章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_4_N",
+        "text_japanese": "4章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_5_N",
+        "text_japanese": "4章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_6_N",
+        "text_japanese": "4章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_7_N",
+        "text_japanese": "4章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_8_N",
+        "text_japanese": "4章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_9_N",
+        "text_japanese": "4章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_10_N",
+        "text_japanese": "4章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_11_N",
+        "text_japanese": "4章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_12_N",
+        "text_japanese": "4章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_13_N",
+        "text_japanese": "4章-13",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_14_N",
+        "text_japanese": "4章-14",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_15_N",
+        "text_japanese": "4章-15",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_16_N",
+        "text_japanese": "4章-16",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_17_N",
+        "text_japanese": "4章-17",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_18_N",
+        "text_japanese": "4章-18",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_19_N",
+        "text_japanese": "4章-19",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_20_N",
+        "text_japanese": "4章-20",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_1_N",
+        "text_japanese": "5章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_2_N",
+        "text_japanese": "5章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_3_N",
+        "text_japanese": "5章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_4_N",
+        "text_japanese": "5章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_5_N",
+        "text_japanese": "5章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_6_N",
+        "text_japanese": "5章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_7_N",
+        "text_japanese": "5章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_8_N",
+        "text_japanese": "5章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_9_N",
+        "text_japanese": "5章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_10_N",
+        "text_japanese": "5章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_11_N",
+        "text_japanese": "5章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_12_N",
+        "text_japanese": "5章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_13_N",
+        "text_japanese": "5章-13",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_14_N",
+        "text_japanese": "5章-14",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_15_N",
+        "text_japanese": "5章-15",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_16_N",
+        "text_japanese": "5章-16",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_17_N",
+        "text_japanese": "5章-17",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_18_N",
+        "text_japanese": "5章-18",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_19_N",
+        "text_japanese": "5章-19",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_20_N",
+        "text_japanese": "5章-20",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_1_N",
+        "text_japanese": "6章-1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_2_N",
+        "text_japanese": "6章-2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_3_N",
+        "text_japanese": "6章-3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_4_N",
+        "text_japanese": "6章-4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_5_N",
+        "text_japanese": "6章-5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_6_N",
+        "text_japanese": "6章-6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_7_N",
+        "text_japanese": "6章-7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_8_N",
+        "text_japanese": "6章-8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_9_N",
+        "text_japanese": "6章-9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_10_N",
+        "text_japanese": "6章-10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_11_N",
+        "text_japanese": "6章-11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_12_N",
+        "text_japanese": "6章-12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_13_N",
+        "text_japanese": "6章-13",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_14_N",
+        "text_japanese": "6章-14",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_15_N",
+        "text_japanese": "6章-15",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_16_N",
+        "text_japanese": "6章-16",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_17_N",
+        "text_japanese": "6章-17",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_18_N",
+        "text_japanese": "6章-18",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_19_N",
+        "text_japanese": "6章-19",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_20_N",
+        "text_japanese": "6章-20",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_1_H",
+        "text_japanese": "1章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_2_H",
+        "text_japanese": "1章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_3_H",
+        "text_japanese": "1章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_1_4_H",
+        "text_japanese": "1章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_1_H",
+        "text_japanese": "2章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_2_H",
+        "text_japanese": "2章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_3_H",
+        "text_japanese": "2章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_2_4_H",
+        "text_japanese": "2章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_1_H",
+        "text_japanese": "3章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_2_H",
+        "text_japanese": "3章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_3_H",
+        "text_japanese": "3章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_3_4_H",
+        "text_japanese": "3章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_1_H",
+        "text_japanese": "4章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_2_H",
+        "text_japanese": "4章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_3_H",
+        "text_japanese": "4章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_4_4_H",
+        "text_japanese": "4章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_1_H",
+        "text_japanese": "5章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_2_H",
+        "text_japanese": "5章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_3_H",
+        "text_japanese": "5章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_5_4_H",
+        "text_japanese": "5章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_1_H",
+        "text_japanese": "6章-1 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_2_H",
+        "text_japanese": "6章-2 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_3_H",
+        "text_japanese": "6章-3 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_MAIN_6_4_H",
+        "text_japanese": "6章-4 (HARD)",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_1_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_2_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_3_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_4_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_5_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_6_N",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_1_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_2_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_3_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_4_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_5_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_6_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_13_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_14_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_15_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_16_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_1_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_2_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_3_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_4_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_5_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_6_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_13_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_14_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_15_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_16_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_17_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_18_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_19_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_20_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_1_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_2_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_3_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_4_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_5_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_6_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_13_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_14_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_15_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_16_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_17_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_18_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_19_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_20_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_1_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_2_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_3_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_4_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_5_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_6_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_13_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_14_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_15_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_16_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_17_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_18_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_19_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_20_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_1_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_2_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_3_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_4_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_5_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_6_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_7_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_8_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_9_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_10_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_11_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_12_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_13_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_14_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_15_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_16_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_17_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_18_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_19_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_20_N",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_1_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_2_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_3_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_4_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_5_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_1_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_2_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_3_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_MAIN_6_4_H",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE1",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE2",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE3",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE4",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE5",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE6",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE7",
+        "text_japanese": "エリスクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE8",
+        "text_japanese": "経験値クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE9",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE10",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE11",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE12",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE13",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE14",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE15",
+        "text_japanese": "魔道具クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE16",
+        "text_japanese": "エリスクエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_FREE17",
+        "text_japanese": "経験値クエスト",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_16_1",
+        "text_japanese": "エリス 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_16_2",
+        "text_japanese": "エリス 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_16_3",
+        "text_japanese": "エリス 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_16_4",
+        "text_japanese": "エリス 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_17_1",
+        "text_japanese": "経験値 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_17_2",
+        "text_japanese": "経験値 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_17_3",
+        "text_japanese": "経験値 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_17_4",
+        "text_japanese": "経験値 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_1_1",
+        "text_japanese": "武芸書 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_1_2",
+        "text_japanese": "武芸書 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_1_3",
+        "text_japanese": "武芸書 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_1_4",
+        "text_japanese": "武芸書 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_2_1",
+        "text_japanese": "石板 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_2_2",
+        "text_japanese": "石板 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_2_3",
+        "text_japanese": "石板 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_2_4",
+        "text_japanese": "石板 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_3_1",
+        "text_japanese": "魔導書 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_3_2",
+        "text_japanese": "魔導書 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_3_3",
+        "text_japanese": "魔導書 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_3_4",
+        "text_japanese": "魔導書 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_4_1",
+        "text_japanese": "霊薬 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_4_2",
+        "text_japanese": "霊薬 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_4_3",
+        "text_japanese": "霊薬 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_4_4",
+        "text_japanese": "霊薬 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_5_1",
+        "text_japanese": "宝珠 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_5_2",
+        "text_japanese": "宝珠 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_5_3",
+        "text_japanese": "宝珠 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_5_4",
+        "text_japanese": "宝珠 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_6_1",
+        "text_japanese": "水晶 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_6_2",
+        "text_japanese": "水晶 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_6_3",
+        "text_japanese": "水晶 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_FREE_6_4",
+        "text_japanese": "水晶 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_1_1",
+        "text_japanese": "エリス 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_1_2",
+        "text_japanese": "エリス 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_1_3",
+        "text_japanese": "エリス 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_1_4",
+        "text_japanese": "エリス 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_2_1",
+        "text_japanese": "経験値 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_2_2",
+        "text_japanese": "経験値 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_2_3",
+        "text_japanese": "経験値 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_2_4",
+        "text_japanese": "経験値 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_3_1",
+        "text_japanese": "武芸書 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_3_2",
+        "text_japanese": "武芸書 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_3_3",
+        "text_japanese": "武芸書 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_3_4",
+        "text_japanese": "武芸書 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_4_1",
+        "text_japanese": "石板 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_4_2",
+        "text_japanese": "石板 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_4_3",
+        "text_japanese": "石板 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_4_4",
+        "text_japanese": "石板 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_5_1",
+        "text_japanese": "魔導書 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_5_2",
+        "text_japanese": "魔導書 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_5_3",
+        "text_japanese": "魔導書 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_5_4",
+        "text_japanese": "魔導書 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_6_1",
+        "text_japanese": "霊薬 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_6_2",
+        "text_japanese": "霊薬 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_6_3",
+        "text_japanese": "霊薬 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_6_4",
+        "text_japanese": "霊薬 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_7_1",
+        "text_japanese": "宝珠 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_7_2",
+        "text_japanese": "宝珠 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_7_3",
+        "text_japanese": "宝珠 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_7_4",
+        "text_japanese": "宝珠 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_8_1",
+        "text_japanese": "水晶 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_8_2",
+        "text_japanese": "水晶 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_8_3",
+        "text_japanese": "水晶 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_8_4",
+        "text_japanese": "水晶 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_9_1",
+        "text_japanese": "ALL 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_9_2",
+        "text_japanese": "ALL 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_9_3",
+        "text_japanese": "ALL 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_LIMITED_9_4",
+        "text_japanese": "ALL 超級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_16_1",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_16_2",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_16_3",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_16_4",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_17_1",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_17_2",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_17_3",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_17_4",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_1_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_1_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_1_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_1_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_2_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_2_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_2_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_2_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_3_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_3_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_3_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_3_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_4_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_4_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_4_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_4_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_5_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_5_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_5_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_5_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_6_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_6_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_6_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_FREE_6_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_1_1",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_1_2",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_1_3",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_1_4",
+        "text_japanese": "メンバーの強化や装備の製作・強化に必要なエリスを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_2_1",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_2_2",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_2_3",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_2_4",
+        "text_japanese": "メンバーのレベル強化に必要なパワーポーションを獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_3_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_3_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_3_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_3_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_4_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_4_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_4_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_4_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_5_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_5_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_5_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_5_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_6_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_6_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_6_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_6_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_7_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_7_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_7_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_7_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_8_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_8_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_8_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_8_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_9_1",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_9_2",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_9_3",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_LIMITED_9_4",
+        "text_japanese": "メンバーの限界突破に必要な魔道具を獲得しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_1",
+        "text_japanese": "バトルアリーナ 初級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_2",
+        "text_japanese": "バトルアリーナ 中級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_3",
+        "text_japanese": "バトルアリーナ 上級",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_11_DESCRIPTION",
+        "text_japanese": "魔王軍幹部の1人。種族はデュラハンで、水が弱点。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_12_DESCRIPTION",
+        "text_japanese": "雪精が危機に陥ると現れる精霊。まさに『冬将軍』といった出で立ち。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_13_DESCRIPTION",
+        "text_japanese": "巨大なミミズのようなモンスター。生命力が非常に高い。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_SCORE_14_DESCRIPTION",
+        "text_japanese": "紫色の肌をしたゴブリン族の戦士。骨格が成長し、大きな武器も扱える。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_1_1",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_1_2",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_1_3",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_2_1",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_2_2",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_2_3",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_3_1",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_3_2",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_3_3",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_4_1",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_4_2",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_SCORE_4_3",
+        "text_japanese": "敵にたくさんのダメージを与えて、高いスコアを目指しましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT",
+        "text_japanese": "エンブレム交換所",
+        "text_english": "0"
+    },
+    {
+        "id": "AREA_TITLE_20031",
+        "text_japanese": "この不浄な温泉街に女神を！",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500101",
+        "text_japanese": "NORMAL1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500102",
+        "text_japanese": "NORMAL2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500103",
+        "text_japanese": "NORMAL3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500104",
+        "text_japanese": "NORMAL4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500105",
+        "text_japanese": "NORMAL5",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500106",
+        "text_japanese": "NORMAL6",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500107",
+        "text_japanese": "NORMAL7",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500108",
+        "text_japanese": "NORMAL8",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500109",
+        "text_japanese": "NORMAL9",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500110",
+        "text_japanese": "NORMAL10",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500111",
+        "text_japanese": "NORMAL11",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500112",
+        "text_japanese": "NORMAL12",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500131",
+        "text_japanese": "HARD1",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500132",
+        "text_japanese": "HARD2",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500133",
+        "text_japanese": "HARD3",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500134",
+        "text_japanese": "HARD4",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500161",
+        "text_japanese": "NORMAL",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500162",
+        "text_japanese": "HARD",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_TITLE_500163",
+        "text_japanese": "EXPERT",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500101",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500102",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500103",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500104",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500105",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500106",
+        "text_japanese": "メインクエストを進めることでメインストーリーを解放することができます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500107",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500108",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500109",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500110",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500111",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500112",
+        "text_japanese": "推奨属性のスキルを持つメンバーをパーティーに編成してバトルに挑みましょう。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500131",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500132",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500133",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500134",
+        "text_japanese": "HARDクエストでは、レアな装備の素材を獲得できる場合があります。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500161",
+        "text_japanese": "光属性の魔法攻撃が有効です。また、闇属性耐性や毒耐性があると有利に戦えます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500162",
+        "text_japanese": "光属性の魔法攻撃が有効です。また、闇属性耐性や毒耐性があると有利に戦えます。",
+        "text_english": "0"
+    },
+    {
+        "id": "STAGE_ADVICE_500163",
+        "text_japanese": "光属性の魔法攻撃が有効です。また、闇属性耐性や毒耐性があると有利に戦えます。",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25000",
+        "text_japanese": "エリスメダル×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25001",
+        "text_japanese": "アクシズメダル×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25002",
+        "text_japanese": "スキルポーション×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25003",
+        "text_japanese": "スキルポーションミニ×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25005",
+        "text_japanese": "パワーポーション(中)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25006",
+        "text_japanese": "パワーポーション(大)×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25100",
+        "text_japanese": "エリス×10000",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25101",
+        "text_japanese": "エリス×50000",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25240",
+        "text_japanese": "師範の武芸書×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25241",
+        "text_japanese": "司教の石板×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25242",
+        "text_japanese": "魔術師の魔導書×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25243",
+        "text_japanese": "仙人の霊薬×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25244",
+        "text_japanese": "賢者の宝珠×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25245",
+        "text_japanese": "預言者の水晶×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25250",
+        "text_japanese": "大師範の武芸書×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25251",
+        "text_japanese": "大司教の石板×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25252",
+        "text_japanese": "大魔術師の魔導書×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25253",
+        "text_japanese": "大仙人の霊薬×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25254",
+        "text_japanese": "大賢者の宝珠×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25255",
+        "text_japanese": "大預言者の水晶×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25260",
+        "text_japanese": "銀の聖杯×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25261",
+        "text_japanese": "金の聖杯×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25262",
+        "text_japanese": "伝説の聖杯×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25330",
+        "text_japanese": "鉄鉱石×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25331",
+        "text_japanese": "大樹の枝×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25332",
+        "text_japanese": "金鉱晶×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25340",
+        "text_japanese": "ミスリル鉱石×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25341",
+        "text_japanese": "世界樹の枝×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25342",
+        "text_japanese": "白金鉱晶×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25380",
+        "text_japanese": "竜の牙×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25381",
+        "text_japanese": "竜の角×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25382",
+        "text_japanese": "竜の爪×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25383",
+        "text_japanese": "飛竜の骨×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25384",
+        "text_japanese": "飛竜の翼×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25385",
+        "text_japanese": "人魚の涙×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25386",
+        "text_japanese": "海竜の鱗×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25387",
+        "text_japanese": "天使の羽×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25390",
+        "text_japanese": "神龍の牙×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25391",
+        "text_japanese": "神龍の角×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25392",
+        "text_japanese": "神龍の爪×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25393",
+        "text_japanese": "古龍の骨×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25394",
+        "text_japanese": "古龍の翼×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25396",
+        "text_japanese": "天竜の鱗×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM25397",
+        "text_japanese": "大天使の羽×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM60010",
+        "text_japanese": "スキルポーション(専用)\\n×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM60011",
+        "text_japanese": "［イベント限定］\\n清流刃の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM60012",
+        "text_japanese": "光輝架の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "TEXT_EXCHANGE_EVENT_ITEM60013",
+        "text_japanese": "水神槍の巻物×1",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003101",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL1をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003102",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL2をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003103",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL3をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003104",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL4をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003105",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL5をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003106",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL6をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003107",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL7をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003108",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL8をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003109",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL9をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003110",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL10をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003111",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL11をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003112",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMAL12をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003113",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARD1をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003114",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARD2をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003115",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARD3をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003116",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARD4をクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003117",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMALを全てクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003118",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARDを全てクリアしよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003119",
+        "text_japanese": "［この不浄な温泉街に女神を！］NORMALを完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003120",
+        "text_japanese": "［この不浄な温泉街に女神を！］HARDを完全達成しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003121",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボス(NORMAL)を撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003122",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボス(HARD)を撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003123",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボス(EXPERT)を撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003124",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを3回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003125",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを5回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003126",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを10回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003127",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを15回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003128",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを20回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003129",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを25回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003130",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを30回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003131",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを35回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003132",
+        "text_japanese": "［この不浄な温泉街に女神を！］ボスを40回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "MISSION_EVENT_52003133",
+        "text_japanese": "［デイリー］［この不浄な温泉街に女神を！］ボスを3回撃退しよう",
+        "text_english": "0"
+    },
+    {
+        "id": "EVENT_1_MISSION_INTRODUCTION",
+        "text_japanese": "ボスを3回撃退で\\n★3めぐみんGET！",
+        "text_english": "0"
+    }
+]
